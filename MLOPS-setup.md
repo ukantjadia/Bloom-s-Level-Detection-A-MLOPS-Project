@@ -74,5 +74,51 @@ Flask-Cors
 
 4. `-e .` will search for the `setup.py` and it will automatically setup the env by localizing the packages and adding some information about your project to make it look more professional. Write below code in `setup.py`
 ```python
+import setuptools 
 
+with open("README.md","r",encoding="utf-8") as f:
+    long_description = f.read()
+    
+__version__ = "0.0.0"
+
+REPO_NAME = "Repo-Name"
+AUTHOR_USER_NAME = "github_username"
+SRC_REPO = "source_folder_name"
+AUTHORE_EMAIL = "username@gmail.ocom"
+
+setuptools.setup(
+    name = SRC_REPO,
+    version = __version__,
+    author = AUTHOR_USER_NAME,
+    author_email = AUTHORE_EMAIL,
+    description = "A small project to demonstarte MLOPS",
+    long_description = long_description,
+    url = f"https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}",
+    project_urls = {
+        "Bug Tracker" : f"https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}/issues",
+    },
+    package_dir = {"":"src"},
+    packages = setuptools.find_packages(where="src")
+)
+```
+
+5. Now create the python logging(info level) util for handling and recognize the issues after development. So write the below code in `src/project-name/__init__.py` of your source folder 
+```python 
+import os 
+import sys 
+import logging 
+
+logging_str = "[%(asctime)s: %(levelname)s: %(module)s: %(message)s]"
+log_dir = "logs"
+log_filepath = os.path.join(log_dir,"running_logs.log")
+os.makedirs(log_dir, exist_ok=True)
+logging.basicConfig(
+    level= logging.INFO,
+    format= logging_str,
+    handlers = [
+        logging.FileHandler(log_filepath),
+        logging.StreamHandler(sys.stdout)
+    ]
+)
+logger = logging.getLogger("mlopsProjectLogger")
 ```
