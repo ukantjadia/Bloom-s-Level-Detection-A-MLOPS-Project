@@ -1,3 +1,5 @@
+transformers
+nltk
 pandas
 mlflow
 notebook
@@ -12,4 +14,6 @@ joblib
 types-pyYAML
 Flask
 Flask-Cors
+seaborn
+colorlog
 -e .
