@@ -1,2 +1,5 @@
-tset: test
+COLUMNS:
+  Text: object
 
+TARGET_COLUMN:
+  name: Level

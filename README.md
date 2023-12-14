@@ -31,5 +31,13 @@ In this, step we will access our data and make it accessible for future use
 
 **Step 3:**
 
-**Step 4:** Now create a new notebook in research dir as `research``/01_data_ingesion`.ipynb`, 
-Now open it
+**Step 4:** Now create a new notebook in research dir as `research/01_data_ingesion.ipynb`, 
+Now open it and make sure your dir is the root folder of your project 
+
+
+Now follow the Sklaton structure for working further with the notebook
+
+
+Sklaton of notebook
+
+- Define class `StageNameConfig`  
