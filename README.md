@@ -25,3 +25,11 @@ Now I am following the steps of the MLOPS project as mentioned in the method
 
 In this, step we will access our data and make it accessible for future use
 
+**Step 1:** set up the `config/config.yaml` file by defining some default variables like root_dir,data_url,data_path,path_zip_data etc.
+
+**Step 2:**
+
+**Step 3:**
+
+**Step 4:** Now create a new notebook in research dir as `research``/01_data_ingesion`.ipynb`, 
+Now open it

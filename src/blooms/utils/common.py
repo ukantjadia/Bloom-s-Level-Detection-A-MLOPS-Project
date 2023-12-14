@@ -63,4 +63,4 @@ def load_bin(path: Path) -> Any:
 def get_size(path: Path) -> str:
     size_in_kb = round(os.path.getsize(path) / 1024)
     logger.info(f"Size: {size_in_kb} file: {path}")
-    return size_in_kb
+    return f"~ {size_in_kb} KB"
