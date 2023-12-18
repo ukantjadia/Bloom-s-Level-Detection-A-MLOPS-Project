@@ -1,1 +1,6 @@
-test: test
+Models_03:
+  alpha: 0.4
+  l1_ratio: 0.4
+  pipeline_ele_1: "tfidfVectorizer"
+  pipeline_ele_2: "smote_over_sampling"
+  pipeline_ele_3: "multinomial"

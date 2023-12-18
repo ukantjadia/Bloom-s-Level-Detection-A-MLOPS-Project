@@ -1,601 +1,601 @@
-,Text,Level,Tokens
-0,"given the data available on a research question, take a position and defend it.",Evaluate,"['given', 'the', 'data', 'available', 'on', 'a', 'research', 'question', ',', 'take', 'a', 'position', 'and', 'defend', 'it', '.']"
-1,appraise the speech's effectiveness based upon the class' criteria.,Evaluate,"['appraise', 'the', 'speech', ""'s"", 'effectiveness', 'based', 'upon', 'the', 'class', ""'"", 'criteria', '.']"
-2,"combine elements of drama, music, and dance into a stage presentation.",Create,"['combine', 'elements', 'of', 'drama', ',', 'music', ',', 'and', 'dance', 'into', 'a', 'stage', 'presentation', '.']"
-3,"improved, reformed or rejected?",Evaluate,"['improved', ',', 'reformed', 'or', 'rejected', '?']"
-4,apply shading to produce depth in drawing.,Apply,"['apply', 'shading', 'to', 'produce', 'depth', 'in', 'drawing', '.']"
-5,identify fractions from a pictorial representation,Remember,"['identify', 'fractions', 'from', 'a', 'pictorial', 'representation']"
-6,choose and illustrate the two most important events in the story.,Evaluate,"['choose', 'and', 'illustrate', 'the', 'two', 'most', 'important', 'events', 'in', 'the', 'story', '.']"
-7,how could we determine the number of pennies in a jar without counting them?,Create,"['how', 'could', 'we', 'determine', 'the', 'number', 'of', 'pennies', 'in', 'a', 'jar', 'without', 'counting', 'them', '?']"
-8,state the definition of application in bloom's taxonomy.,Remember,"['state', 'the', 'definition', 'of', 'application', 'in', 'bloom', ""'s"", 'taxonomy', '.']"
-9,"rewrite the sentence in your head, following the direction given below",Understand,"['rewrite', 'the', 'sentence', 'in', 'your', 'head', ',', 'following', 'the', 'direction', 'given', 'below']"
-10,analyze the positive and negative points presented concerning the abolition of guns and write a brief (2-3page) narrative of your analysis.,Analyze,"['analyze', 'the', 'positive', 'and', 'negative', 'points', 'presented', 'concerning', 'the', 'abolition', 'of', 'guns', 'and', 'write', 'a', 'brief', '(', '2-3page', ')', 'narrative', 'of', 'your', 'analysis', '.']"
-11,distinguish between micro and macro economics.,Analyze,"['distinguish', 'between', 'micro', 'and', 'macro', 'economics', '.']"
-12,about what proportion of the population of the us is living on farms?,Remember,"['about', 'what', 'proportion', 'of', 'the', 'population', 'of', 'the', 'us', 'is', 'living', 'on', 'farms', '?']"
-13,design a poster for this book.,Create,"['design', 'a', 'poster', 'for', 'this', 'book', '.']"
-14,"if notes are available on the professor's website, how should those notes be used?",Apply,"['if', 'notes', 'are', 'available', 'on', 'the', 'professor', ""'s"", 'website', ',', 'how', 'should', 'those', 'notes', 'be', 'used', '?']"
-15,apply laws of statistics to evaluate the reliability of a written test.,Apply,"['apply', 'laws', 'of', 'statistics', 'to', 'evaluate', 'the', 'reliability', 'of', 'a', 'written', 'test', '.']"
-16,paraphrase what hamlet is saying in his soliloquy.,Understand,"['paraphrase', 'what', 'hamlet', 'is', 'saying', 'in', 'his', 'soliloquy', '.']"
-17,decide about the most exciting part of the book. being sure to give at least three reasons why?,Evaluate,"['decide', 'about', 'the', 'most', 'exciting', 'part', 'of', 'the', 'book', '.', 'being', 'sure', 'to', 'give', 'at', 'least', 'three', 'reasons', 'why', '?']"
-18,how effective are . . .?,Evaluate,"['how', 'effective', 'are', '.', '.', '.', '?']"
-19,what do you think are the strengths of using integrated math in your program?,Evaluate,"['what', 'do', 'you', 'think', 'are', 'the', 'strengths', 'of', 'using', 'integrated', 'math', 'in', 'your', 'program', '?']"
-20,how many loop statement available in c++?,Remember,"['how', 'many', 'loop', 'statement', 'available', 'in', 'c++', '?']"
-21,compose a class story.,Create,"['compose', 'a', 'class', 'story', '.']"
-22,sketch a typical absorption process in a packed column with regeneration in form of,Apply,"['sketch', 'a', 'typical', 'absorption', 'process', 'in', 'a', 'packed', 'column', 'with', 'regeneration', 'in', 'form', 'of']"
-23,how did chinese newspapers differ from us,Analyze,"['how', 'did', 'chinese', 'newspapers', 'differ', 'from', 'us']"
-24,how to construct simple solutions when problems are complex?,Apply,"['how', 'to', 'construct', 'simple', 'solutions', 'when', 'problems', 'are', 'complex', '?']"
-25,what is the most important...?,Evaluate,"['what', 'is', 'the', 'most', 'important', '...', '?']"
-26,design a healthy menu that you think most people would enjoy using the healthy eating guide.,Evaluate,"['design', 'a', 'healthy', 'menu', 'that', 'you', 'think', 'most', 'people', 'would', 'enjoy', 'using', 'the', 'healthy', 'eating', 'guide', '.']"
-27,name the artist who painted the mona lisa.,Remember,"['name', 'the', 'artist', 'who', 'painted', 'the', 'mona', 'lisa', '.']"
-28,describe an experiment to answer the question of the effects of weight on the fall of an object.,Apply,"['describe', 'an', 'experiment', 'to', 'answer', 'the', 'question', 'of', 'the', 'effects', 'of', 'weight', 'on', 'the', 'fall', 'of', 'an', 'object', '.']"
-29,translate an equation into a spreadsheet formula.,Understand,"['translate', 'an', 'equation', 'into', 'a', 'spreadsheet', 'formula', '.']"
-30,determine if a character's actions were heroic,Evaluate,"['determine', 'if', 'a', 'character', ""'s"", 'actions', 'were', 'heroic']"
-31,can you distinguish between . . .?,Analyze,"['can', 'you', 'distinguish', 'between', '.', '.', '.', '?']"
-32,discuss the nature of socialism.,Understand,"['discuss', 'the', 'nature', 'of', 'socialism', '.']"
-33,use laplace to solve the following problems,Apply,"['use', 'laplace', 'to', 'solve', 'the', 'following', 'problems']"
-34,describe the pareto principle in statistical software quality assurance.,Understand,"['describe', 'the', 'pareto', 'principle', 'in', 'statistical', 'software', 'quality', 'assurance', '.']"
-35,"how do we construct agents that can deliver. ""good"" assistance",Apply,"['how', 'do', 'we', 'construct', 'agents', 'that', 'can', 'deliver', '.', '``', 'good', ""''"", 'assistance']"
-36,state the characteristics of each type of corrosion testing studied,Remember,"['state', 'the', 'characteristics', 'of', 'each', 'type', 'of', 'corrosion', 'testing', 'studied']"
-37,was hemingway a great american writer? first you will need to define greatness.,Evaluate,"['was', 'hemingway', 'a', 'great', 'american', 'writer', '?', 'first', 'you', 'will', 'need', 'to', 'define', 'greatness', '.']"
-38,suppose phillip wasn't rescued shortly after timothy's death. how long could he have survived?,Create,"['suppose', 'phillip', 'was', ""n't"", 'rescued', 'shortly', 'after', 'timothy', ""'s"", 'death', '.', 'how', 'long', 'could', 'he', 'have', 'survived', '?']"
-39,"given three possible approaches to implement the defined system, discuss the possible advantages and disadvantages of each approach.",Evaluate,"['given', 'three', 'possible', 'approaches', 'to', 'implement', 'the', 'defined', 'system', ',', 'discuss', 'the', 'possible', 'advantages', 'and', 'disadvantages', 'of', 'each', 'approach', '.']"
-40,"differentiate the passages that attacked a political opponent personally, and those that attacked an opponent's political programs.",Analyze,"['differentiate', 'the', 'passages', 'that', 'attacked', 'a', 'political', 'opponent', 'personally', ',', 'and', 'those', 'that', 'attacked', 'an', 'opponent', ""'s"", 'political', 'programs', '.']"
-41,calculate the deflection of a beam under uniform loading.,Apply,"['calculate', 'the', 'deflection', 'of', 'a', 'beam', 'under', 'uniform', 'loading', '.']"
-42,"critique the other student's (or your own) speech, based on the criteria we have studied this semester.",Evaluate,"['critique', 'the', 'other', 'student', ""'s"", '(', 'or', 'your', 'own', ')', 'speech', ',', 'based', 'on', 'the', 'criteria', 'we', 'have', 'studied', 'this', 'semester', '.']"
-43,"explain what the author means by the statement ""our intellectual powers are geared to master static relations.",Understand,"['explain', 'what', 'the', 'author', 'means', 'by', 'the', 'statement', '``', 'our', 'intellectual', 'powers', 'are', 'geared', 'to', 'master', 'static', 'relations', '.']"
-44,name the four major food groups.,Remember,"['name', 'the', 'four', 'major', 'food', 'groups', '.']"
-45,compare and contrast two characters in the book.,Analyze,"['compare', 'and', 'contrast', 'two', 'characters', 'in', 'the', 'book', '.']"
-46,take a collection of photographs to demonstrate a particular point.,Apply,"['take', 'a', 'collection', 'of', 'photographs', 'to', 'demonstrate', 'a', 'particular', 'point', '.']"
-47,judge aesthetic qualities and relationship to future values.,Evaluate,"['judge', 'aesthetic', 'qualities', 'and', 'relationship', 'to', 'future', 'values', '.']"
-48,recite a policy of immigration in europe .,Remember,"['recite', 'a', 'policy', 'of', 'immigration', 'in', 'europe', '.']"
-49,decide which candidate would best fill the position of principal.,Evaluate,"['decide', 'which', 'candidate', 'would', 'best', 'fill', 'the', 'position', 'of', 'principal', '.']"
-50,establish criteria for making this choice and defend your final selection.,Evaluate,"['establish', 'criteria', 'for', 'making', 'this', 'choice', 'and', 'defend', 'your', 'final', 'selection', '.']"
-51,rewrite the principles of test writing.,Understand,"['rewrite', 'the', 'principles', 'of', 'test', 'writing', '.']"
-52,list the steps involved in titration.,Remember,"['list', 'the', 'steps', 'involved', 'in', 'titration', '.']"
-53,how would you change the story to create a different ending?,Create,"['how', 'would', 'you', 'change', 'the', 'story', 'to', 'create', 'a', 'different', 'ending', '?']"
-54,"develop a way to teach the concept of ""adjectives"".",Create,"['develop', 'a', 'way', 'to', 'teach', 'the', 'concept', 'of', '``', 'adjectives', ""''"", '.']"
-55,write a song about 'old macdonald' who had a bulldozer instead of a farm.,Create,"['write', 'a', 'song', 'about', ""'old"", 'macdonald', ""'"", 'who', 'had', 'a', 'bulldozer', 'instead', 'of', 'a', 'farm', '.']"
-56,explain why it is likely that a matriarchal family system would be found in a matrilocal or matrilineal society.,Create,"['explain', 'why', 'it', 'is', 'likely', 'that', 'a', 'matriarchal', 'family', 'system', 'would', 'be', 'found', 'in', 'a', 'matrilocal', 'or', 'matrilineal', 'society', '.']"
-57,"given a graph of production trends in automobiles, describe what the graph represents in a memo to your boss.",Understand,"['given', 'a', 'graph', 'of', 'production', 'trends', 'in', 'automobiles', ',', 'describe', 'what', 'the', 'graph', 'represents', 'in', 'a', 'memo', 'to', 'your', 'boss', '.']"
-58,recite the the gaussian law,Remember,"['recite', 'the', 'the', 'gaussian', 'law']"
-59,how would you investigate this abnormality,Analyze,"['how', 'would', 'you', 'investigate', 'this', 'abnormality']"
-60,what do you think is the mass and why,Evaluate,"['what', 'do', 'you', 'think', 'is', 'the', 'mass', 'and', 'why']"
-61,can you create new and unusual uses for . . .?,Create,"['can', 'you', 'create', 'new', 'and', 'unusual', 'uses', 'for', '.', '.', '.', '?']"
-62,which of the following is the method for determining the volume of a cylinder?,Remember,"['which', 'of', 'the', 'following', 'is', 'the', 'method', 'for', 'determining', 'the', 'volume', 'of', 'a', 'cylinder', '?']"
-63,"in a teaching simulation with your peers role-playing 6th grade students, demonstrate the principle of reinforcement in classroom interactions and prepare a half page description of what happened during the simulation that validated the principle.",Apply,"['in', 'a', 'teaching', 'simulation', 'with', 'your', 'peers', 'role-playing', '6th', 'grade', 'students', ',', 'demonstrate', 'the', 'principle', 'of', 'reinforcement', 'in', 'classroom', 'interactions', 'and', 'prepare', 'a', 'half', 'page', 'description', 'of', 'what', 'happened', 'during', 'the', 'simulation', 'that', 'validated', 'the', 'principle', '.']"
-64,summarize the main point of these two texts in your own words,Understand,"['summarize', 'the', 'main', 'point', 'of', 'these', 'two', 'texts', 'in', 'your', 'own', 'words']"
-65,how to combine virtual symmetry and symbolic model checking effectively,Create,"['how', 'to', 'combine', 'virtual', 'symmetry', 'and', 'symbolic', 'model', 'checking', 'effectively']"
-66,how much did he pay for his car,Remember,"['how', 'much', 'did', 'he', 'pay', 'for', 'his', 'car']"
-67,"after solving a problem, determine the degree to which the problem was solved as efficiently as possible",Evaluate,"['after', 'solving', 'a', 'problem', ',', 'determine', 'the', 'degree', 'to', 'which', 'the', 'problem', 'was', 'solved', 'as', 'efficiently', 'as', 'possible']"
-68,integrate training from several sources to solve a problem.,Create,"['integrate', 'training', 'from', 'several', 'sources', 'to', 'solve', 'a', 'problem', '.']"
-69,compare and contrast animals that the class has made.,Analyze,"['compare', 'and', 'contrast', 'animals', 'that', 'the', 'class', 'has', 'made', '.']"
-70,are you a . . . person?,Evaluate,"['are', 'you', 'a', '.', '.', '.', 'person', '?']"
-71,compose your own note-taking design that incorporates all theadvantages of the cornell method.,Create,"['compose', 'your', 'own', 'note-taking', 'design', 'that', 'incorporates', 'all', 'theadvantages', 'of', 'the', 'cornell', 'method', '.']"
-72,which of the two liquids is hypotonic,Remember,"['which', 'of', 'the', 'two', 'liquids', 'is', 'hypotonic']"
-73,construct the data path of the risc processor given in the previous question,Apply,"['construct', 'the', 'data', 'path', 'of', 'the', 'risc', 'processor', 'given', 'in', 'the', 'previous', 'question']"
-74,listen to two classmates conversing on tape and critique their performance on the basis of the skills covered this semester.,Evaluate,"['listen', 'to', 'two', 'classmates', 'conversing', 'on', 'tape', 'and', 'critique', 'their', 'performance', 'on', 'the', 'basis', 'of', 'the', 'skills', 'covered', 'this', 'semester', '.']"
-75,identify which word begins with the same sound as the s in sun (knowledge of letter s),Remember,"['identify', 'which', 'word', 'begins', 'with', 'the', 'same', 'sound', 'as', 'the', 's', 'in', 'sun', '(', 'knowledge', 'of', 'letter', 's', ')']"
-76,critically examine the strengths and weaknesses of the positivist paradigm,Analyze,"['critically', 'examine', 'the', 'strengths', 'and', 'weaknesses', 'of', 'the', 'positivist', 'paradigm']"
-77,when did the first saudi radio station open,Remember,"['when', 'did', 'the', 'first', 'saudi', 'radio', 'station', 'open']"
-78,"write a c program that accepts integer inputs from the screen, computes the total and average values; and displays the values on the screen.",Create,"['write', 'a', 'c', 'program', 'that', 'accepts', 'integer', 'inputs', 'from', 'the', 'screen', ',', 'computes', 'the', 'total', 'and', 'average', 'values', ';', 'and', 'displays', 'the', 'values', 'on', 'the', 'screen', '.']"
-79,examine the stated positions of both major political candidates with regard to a particular issue and state good reasons (based on principles discussed in class) for why one candidates position is more likely to be effective than the other's.,Evaluate,"['examine', 'the', 'stated', 'positions', 'of', 'both', 'major', 'political', 'candidates', 'with', 'regard', 'to', 'a', 'particular', 'issue', 'and', 'state', 'good', 'reasons', '(', 'based', 'on', 'principles', 'discussed', 'in', 'class', ')', 'for', 'why', 'one', 'candidates', 'position', 'is', 'more', 'likely', 'to', 'be', 'effective', 'than', 'the', 'other', ""'s"", '.']"
-80,solve a math problem using familiar procedure or formula,Apply,"['solve', 'a', 'math', 'problem', 'using', 'familiar', 'procedure', 'or', 'formula']"
-81,summarize a story in own words.,Understand,"['summarize', 'a', 'story', 'in', 'own', 'words', '.']"
-82,how do you think one should reason in making ethical decisions in business,Evaluate,"['how', 'do', 'you', 'think', 'one', 'should', 'reason', 'in', 'making', 'ethical', 'decisions', 'in', 'business']"
-83,how can we combine and abstract facts about a software system to create new knowledge?,Create,"['how', 'can', 'we', 'combine', 'and', 'abstract', 'facts', 'about', 'a', 'software', 'system', 'to', 'create', 'new', 'knowledge', '?']"
-84,judge whether olympic ideals are realistic or unrealistic for the contemporary elite athlete.,Evaluate,"['judge', 'whether', 'olympic', 'ideals', 'are', 'realistic', 'or', 'unrealistic', 'for', 'the', 'contemporary', 'elite', 'athlete', '.']"
-85,invent a machine to do a specific task.,Create,"['invent', 'a', 'machine', 'to', 'do', 'a', 'specific', 'task', '.']"
-86,when was the first airport in the yemen built,Remember,"['when', 'was', 'the', 'first', 'airport', 'in', 'the', 'yemen', 'built']"
-87,"how can we construct h given i, b and e?",Apply,"['how', 'can', 'we', 'construct', 'h', 'given', 'i', ',', 'b', 'and', 'e', '?']"
-88,use a manual to calculate an employee's vacation time.,Apply,"['use', 'a', 'manual', 'to', 'calculate', 'an', 'employee', ""'s"", 'vacation', 'time', '.']"
-89,summarize a historical document,Understand,"['summarize', 'a', 'historical', 'document']"
-90,write a poem about this book.,Create,"['write', 'a', 'poem', 'about', 'this', 'book', '.']"
-91,make up a puzzle game using the ideas from the study area.,Apply,"['make', 'up', 'a', 'puzzle', 'game', 'using', 'the', 'ideas', 'from', 'the', 'study', 'area', '.']"
-92,revise and process to improve the outcome.,Create,"['revise', 'and', 'process', 'to', 'improve', 'the', 'outcome', '.']"
-93,restate the olympic motto in your own words.,Understand,"['restate', 'the', 'olympic', 'motto', 'in', 'your', 'own', 'words', '.']"
-94,define four types of traceability.,Remember,"['define', 'four', 'types', 'of', 'traceability', '.']"
-95,evaluate two internet sources of information about the egyptians. which would be a better choice for your purpose and why?,Evaluate,"['evaluate', 'two', 'internet', 'sources', 'of', 'information', 'about', 'the', 'egyptians', '.', 'which', 'would', 'be', 'a', 'better', 'choice', 'for', 'your', 'purpose', 'and', 'why', '?']"
-96,draw the block diagram of the central processing unit,Remember,"['draw', 'the', 'block', 'diagram', 'of', 'the', 'central', 'processing', 'unit']"
-97,"briefly compare this way of testing the satisfiability of to the more standard way using sld resolution, as in prolog",Understand,"['briefly', 'compare', 'this', 'way', 'of', 'testing', 'the', 'satisfiability', 'of', 'to', 'the', 'more', 'standard', 'way', 'using', 'sld', 'resolution', ',', 'as', 'in', 'prolog']"
-98,examine the differences between the model excluding the most influential observation and the model including all observations.,Analyze,"['examine', 'the', 'differences', 'between', 'the', 'model', 'excluding', 'the', 'most', 'influential', 'observation', 'and', 'the', 'model', 'including', 'all', 'observations', '.']"
-99,compose an original work which incorporates five common materials in sculpture.,Create,"['compose', 'an', 'original', 'work', 'which', 'incorporates', 'five', 'common', 'materials', 'in', 'sculpture', '.']"
-100,can you design a . . . to . . .?,Create,"['can', 'you', 'design', 'a', '.', '.', '.', 'to', '.', '.', '.', '?']"
-101,evaluate whether their model is a true representation of the local environment.,Evaluate,"['evaluate', 'whether', 'their', 'model', 'is', 'a', 'true', 'representation', 'of', 'the', 'local', 'environment', '.']"
-102,explain the whole method of crushing,Understand,"['explain', 'the', 'whole', 'method', 'of', 'crushing']"
-103,can you devise an explicit formula for,Create,"['can', 'you', 'devise', 'an', 'explicit', 'formula', 'for']"
-104,describe in your own words how to copy text from one program into another.,Understand,"['describe', 'in', 'your', 'own', 'words', 'how', 'to', 'copy', 'text', 'from', 'one', 'program', 'into', 'another', '.']"
-105,differentiate printf function calls for displaying prompts and for echoing data.,Analyze,"['differentiate', 'printf', 'function', 'calls', 'for', 'displaying', 'prompts', 'and', 'for', 'echoing', 'data', '.']"
-106,demonstrate how the seasons occur.,Apply,"['demonstrate', 'how', 'the', 'seasons', 'occur', '.']"
-107,tell in your own words the beginning of the book.,Understand,"['tell', 'in', 'your', 'own', 'words', 'the', 'beginning', 'of', 'the', 'book', '.']"
-108,distinguish between the following giving suitable examples,Analyze,"['distinguish', 'between', 'the', 'following', 'giving', 'suitable', 'examples']"
-109,use the distance travelled and cost of petrol to calculate the cost of a coach trip using a spreadsheet.,Apply,"['use', 'the', 'distance', 'travelled', 'and', 'cost', 'of', 'petrol', 'to', 'calculate', 'the', 'cost', 'of', 'a', 'coach', 'trip', 'using', 'a', 'spreadsheet', '.']"
-110,state the pattern for expressing time in french.,Remember,"['state', 'the', 'pattern', 'for', 'expressing', 'time', 'in', 'french', '.']"
-111,list the procedure to draw a mixed potential or evans' diagram,Remember,"['list', 'the', 'procedure', 'to', 'draw', 'a', 'mixed', 'potential', 'or', 'evans', ""'"", 'diagram']"
-112,what can i do to investigate this problem further,Analyze,"['what', 'can', 'i', 'do', 'to', 'investigate', 'this', 'problem', 'further']"
-113,write a list of criteria to judge the willy raps.,Evaluate,"['write', 'a', 'list', 'of', 'criteria', 'to', 'judge', 'the', 'willy', 'raps', '.']"
-114,determine the next number in a sequence,Understand,"['determine', 'the', 'next', 'number', 'in', 'a', 'sequence']"
-115,"define stream bank, floodplain and substrate.",Remember,"['define', 'stream', 'bank', ',', 'floodplain', 'and', 'substrate', '.']"
-116,construct a market strategy for your product using a known strategy as a model.,Apply,"['construct', 'a', 'market', 'strategy', 'for', 'your', 'product', 'using', 'a', 'known', 'strategy', 'as', 'a', 'model', '.']"
-117,restate main idea of story in own words.,Understand,"['restate', 'main', 'idea', 'of', 'story', 'in', 'own', 'words', '.']"
-118,list the characteristics peculiar to the cubist movement.,Remember,"['list', 'the', 'characteristics', 'peculiar', 'to', 'the', 'cubist', 'movement', '.']"
-119,express the rule in function notation,Understand,"['express', 'the', 'rule', 'in', 'function', 'notation']"
-120,what is the title of the first movie you saw,Remember,"['what', 'is', 'the', 'title', 'of', 'the', 'first', 'movie', 'you', 'saw']"
-121,pretend you are a librarian recommending this book to someone. write a paragraph telling what  you would say.,Create,"['pretend', 'you', 'are', 'a', 'librarian', 'recommending', 'this', 'book', 'to', 'someone', '.', 'write', 'a', 'paragraph', 'telling', 'what', 'you', 'would', 'say', '.']"
-122,select the athlete of the century and analyze why you chose this person.,Analyze,"['select', 'the', 'athlete', 'of', 'the', 'century', 'and', 'analyze', 'why', 'you', 'chose', 'this', 'person', '.']"
-123,"explain how the biological concept of symbiotic relationships could be used to help solve socially created problems like water pollution, overflowing garbage landfills, or homelessness.",Create,"['explain', 'how', 'the', 'biological', 'concept', 'of', 'symbiotic', 'relationships', 'could', 'be', 'used', 'to', 'help', 'solve', 'socially', 'created', 'problems', 'like', 'water', 'pollution', ',', 'overflowing', 'garbage', 'landfills', ',', 'or', 'homelessness', '.']"
-124,label the parts of the following insects: grasshopper,Remember,"['label', 'the', 'parts', 'of', 'the', 'following', 'insects', ':', 'grasshopper']"
-125,state the formula for the area of a circle,Remember,"['state', 'the', 'formula', 'for', 'the', 'area', 'of', 'a', 'circle']"
-126,explain in your own words what do you mean by the term economics?,Understand,"['explain', 'in', 'your', 'own', 'words', 'what', 'do', 'you', 'mean', 'by', 'the', 'term', 'economics', '?']"
-127,list the levels in bloom's taxonomy.,Remember,"['list', 'the', 'levels', 'in', 'bloom', ""'s"", 'taxonomy', '.']"
-128,evaluate the level of galvanic coupling between two metals using basic kinetic information? (level 4),Evaluate,"['evaluate', 'the', 'level', 'of', 'galvanic', 'coupling', 'between', 'two', 'metals', 'using', 'basic', 'kinetic', 'information', '?', '(', 'level', '4', ')']"
-129,choose a paint schedule for the maintenance of an outdoor structure? (level 2),Evaluate,"['choose', 'a', 'paint', 'schedule', 'for', 'the', 'maintenance', 'of', 'an', 'outdoor', 'structure', '?', '(', 'level', '2', ')']"
-130,develop one plausible ending for all three short stories below.,Create,"['develop', 'one', 'plausible', 'ending', 'for', 'all', 'three', 'short', 'stories', 'below', '.']"
-131,distinguish between abstract date types (adts) and implementations of adts,Analyze,"['distinguish', 'between', 'abstract', 'date', 'types', '(', 'adts', ')', 'and', 'implementations', 'of', 'adts']"
-132,how do we differentiate between an interview and an interrogation?,Analyze,"['how', 'do', 'we', 'differentiate', 'between', 'an', 'interview', 'and', 'an', 'interrogation', '?']"
-133,how do you analyze a marginally rct,Analyze,"['how', 'do', 'you', 'analyze', 'a', 'marginally', 'rct']"
-134,can you compare your . . . with that presented in . . .?,Analyze,"['can', 'you', 'compare', 'your', '.', '.', '.', 'with', 'that', 'presented', 'in', '.', '.', '.', '?']"
-135,create a storyboard for a sequel to your book. use the same characters.,Create,"['create', 'a', 'storyboard', 'for', 'a', 'sequel', 'to', 'your', 'book', '.', 'use', 'the', 'same', 'characters', '.']"
-136,in which countries is arabic language spoken,Remember,"['in', 'which', 'countries', 'is', 'arabic', 'language', 'spoken']"
-137,differentiate the following functions using the quotient rule,Analyze,"['differentiate', 'the', 'following', 'functions', 'using', 'the', 'quotient', 'rule']"
-138,who is the first president   of usa,Remember,"['who', 'is', 'the', 'first', 'president', 'of', 'usa']"
-139,how would you relate position concept with position strategy,Apply,"['how', 'would', 'you', 'relate', 'position', 'concept', 'with', 'position', 'strategy']"
-140,what would happen if the rainfall doubled in your state next year,Apply,"['what', 'would', 'happen', 'if', 'the', 'rainfall', 'doubled', 'in', 'your', 'state', 'next', 'year']"
-141,what are the representational symbols on maps and charts,Remember,"['what', 'are', 'the', 'representational', 'symbols', 'on', 'maps', 'and', 'charts']"
-142,use a costing model to compute prices on goods to maximise profits and minimise costs.,Apply,"['use', 'a', 'costing', 'model', 'to', 'compute', 'prices', 'on', 'goods', 'to', 'maximise', 'profits', 'and', 'minimise', 'costs', '.']"
-143,compare and contrast our school to other communities.,Analyze,"['compare', 'and', 'contrast', 'our', 'school', 'to', 'other', 'communities', '.']"
-144,recite the principles of the data protection act.,Remember,"['recite', 'the', 'principles', 'of', 'the', 'data', 'protection', 'act', '.']"
-145,"how do the clauses and expressions given in the article which replace goto statements, lead to the three traditional control statements",Create,"['how', 'do', 'the', 'clauses', 'and', 'expressions', 'given', 'in', 'the', 'article', 'which', 'replace', 'goto', 'statements', ',', 'lead', 'to', 'the', 'three', 'traditional', 'control', 'statements']"
-146,choose any u.s. president and explain how he exercised his power as commander in chief of the armed forces.,Apply,"['choose', 'any', 'u.s.', 'president', 'and', 'explain', 'how', 'he', 'exercised', 'his', 'power', 'as', 'commander', 'in', 'chief', 'of', 'the', 'armed', 'forces', '.']"
-147,what are the units of corrosion penetration rates? relate these to faraday's law,Remember,"['what', 'are', 'the', 'units', 'of', 'corrosion', 'penetration', 'rates', '?', 'relate', 'these', 'to', 'faraday', ""'s"", 'law']"
-148,evaluate the corrosion monitoring needs of a chemical processing plant,Evaluate,"['evaluate', 'the', 'corrosion', 'monitoring', 'needs', 'of', 'a', 'chemical', 'processing', 'plant']"
-149,break down the components of a standard film camera and explain how they interact to make the machine work.,Analyze,"['break', 'down', 'the', 'components', 'of', 'a', 'standard', 'film', 'camera', 'and', 'explain', 'how', 'they', 'interact', 'to', 'make', 'the', 'machine', 'work', '.']"
-150,"following the identification of the forms of corrosion that were involved in a failure, recommend a solution to avoid this failure?",Create,"['following', 'the', 'identification', 'of', 'the', 'forms', 'of', 'corrosion', 'that', 'were', 'involved', 'in', 'a', 'failure', ',', 'recommend', 'a', 'solution', 'to', 'avoid', 'this', 'failure', '?']"
-151,state the guidelines to design an anodic protection system,Remember,"['state', 'the', 'guidelines', 'to', 'design', 'an', 'anodic', 'protection', 'system']"
-152,suggest ways in which it could have responded more effectively,Evaluate,"['suggest', 'ways', 'in', 'which', 'it', 'could', 'have', 'responded', 'more', 'effectively']"
-153,define mercantilism.,Remember,"['define', 'mercantilism', '.']"
-154,use the e-ph or pourbaix diagram of cr to determine the control current and potential for the anodic protection of a s43000 stainless steel vessel.,Understand,"['use', 'the', 'e-ph', 'or', 'pourbaix', 'diagram', 'of', 'cr', 'to', 'determine', 'the', 'control', 'current', 'and', 'potential', 'for', 'the', 'anodic', 'protection', 'of', 'a', 's43000', 'stainless', 'steel', 'vessel', '.']"
-155,"evaluate a work of art, giving the reasons for your evaluation.",Evaluate,"['evaluate', 'a', 'work', 'of', 'art', ',', 'giving', 'the', 'reasons', 'for', 'your', 'evaluation', '.']"
-156,how was life different in your town 100 years ago?,Analyze,"['how', 'was', 'life', 'different', 'in', 'your', 'town', '100', 'years', 'ago', '?']"
-157,tell in your own words how the setting of the story made it more interesting.,Understand,"['tell', 'in', 'your', 'own', 'words', 'how', 'the', 'setting', 'of', 'the', 'story', 'made', 'it', 'more', 'interesting', '.']"
-158,how much time did he took to build a house,Remember,"['how', 'much', 'time', 'did', 'he', 'took', 'to', 'build', 'a', 'house']"
-159,how would you restructure the school day to reflect children's developmental needs?,Create,"['how', 'would', 'you', 'restructure', 'the', 'school', 'day', 'to', 'reflect', 'children', ""'s"", 'developmental', 'needs', '?']"
-160,"which of the two algorithms, bubblesort or quicksort, is more efficient? justify your answer.",Evaluate,"['which', 'of', 'the', 'two', 'algorithms', ',', 'bubblesort', 'or', 'quicksort', ',', 'is', 'more', 'efficient', '?', 'justify', 'your', 'answer', '.']"
-161,describe what happened at...?,Understand,"['describe', 'what', 'happened', 'at', '...', '?']"
-162,how is scientific progress similar to darwinian evolution according to kuhn,Analyze,"['how', 'is', 'scientific', 'progress', 'similar', 'to', 'darwinian', 'evolution', 'according', 'to', 'kuhn']"
-163,what is  your family name,Remember,"['what', 'is', 'your', 'family', 'name']"
-164,judge the value of . . .?,Evaluate,"['judge', 'the', 'value', 'of', '.', '.', '.', '?']"
-165,recall the following pictoral example of an implementation of some queue operations,Remember,"['recall', 'the', 'following', 'pictoral', 'example', 'of', 'an', 'implementation', 'of', 'some', 'queue', 'operations']"
-166,inspect the size of the loaded data: how many objects and variables does the iris data matrix contain?,Analyze,"['inspect', 'the', 'size', 'of', 'the', 'loaded', 'data', ':', 'how', 'many', 'objects', 'and', 'variables', 'does', 'the', 'iris', 'data', 'matrix', 'contain', '?']"
-167,list three characteristics that are unique to the cubist movement.,Remember,"['list', 'three', 'characteristics', 'that', 'are', 'unique', 'to', 'the', 'cubist', 'movement', '.']"
-168,create and perform a play about frogs.,Create,"['create', 'and', 'perform', 'a', 'play', 'about', 'frogs', '.']"
-169,show how they have used creative writing strategies appropriate to the format,Apply,"['show', 'how', 'they', 'have', 'used', 'creative', 'writing', 'strategies', 'appropriate', 'to', 'the', 'format']"
-170,what is the setting of to kill a mockingbird?,Remember,"['what', 'is', 'the', 'setting', 'of', 'to', 'kill', 'a', 'mockingbird', '?']"
-171,express your opinion of 'drugs in sport' through poetry.,Understand,"['express', 'your', 'opinion', 'of', ""'drugs"", 'in', 'sport', ""'"", 'through', 'poetry', '.']"
-172,relate the principle of reinforcement to classroom interactions.,Apply,"['relate', 'the', 'principle', 'of', 'reinforcement', 'to', 'classroom', 'interactions', '.']"
-173,justify the title to kill a mockingbird .,Evaluate,"['justify', 'the', 'title', 'to', 'kill', 'a', 'mockingbird', '.']"
-174,retell the story in your words.,Understand,"['retell', 'the', 'story', 'in', 'your', 'words', '.']"
-175,design a testing scenario to assess the susceptibility of an alloy to be used in a given environment?,Create,"['design', 'a', 'testing', 'scenario', 'to', 'assess', 'the', 'susceptibility', 'of', 'an', 'alloy', 'to', 'be', 'used', 'in', 'a', 'given', 'environment', '?']"
-176,predict the differences of a planet with no seasonal changes.,Create,"['predict', 'the', 'differences', 'of', 'a', 'planet', 'with', 'no', 'seasonal', 'changes', '.']"
-177,design a machine to perform a specific task.,Create,"['design', 'a', 'machine', 'to', 'perform', 'a', 'specific', 'task', '.']"
-178,use the rule for a semicolon in a sentence.,Apply,"['use', 'the', 'rule', 'for', 'a', 'semicolon', 'in', 'a', 'sentence', '.']"
-179,can you please analyze modern contemporary culture and tell me how your work plays a significant part in the remains of our post-modernist culture ?,Analyze,"['can', 'you', 'please', 'analyze', 'modern', 'contemporary', 'culture', 'and', 'tell', 'me', 'how', 'your', 'work', 'plays', 'a', 'significant', 'part', 'in', 'the', 'remains', 'of', 'our', 'post-modernist', 'culture', '?']"
-180,pretend you are one of the characters in the book. write a diary about the happenings in your life for two consecutive days.,Apply,"['pretend', 'you', 'are', 'one', 'of', 'the', 'characters', 'in', 'the', 'book', '.', 'write', 'a', 'diary', 'about', 'the', 'happenings', 'in', 'your', 'life', 'for', 'two', 'consecutive', 'days', '.']"
-181,"after designing an experiment, examining the results, and drawing conclusions, determines in what ways the experiment could be conducted more effectively in order to draw more productive conclusions in the future.",Evaluate,"['after', 'designing', 'an', 'experiment', ',', 'examining', 'the', 'results', ',', 'and', 'drawing', 'conclusions', ',', 'determines', 'in', 'what', 'ways', 'the', 'experiment', 'could', 'be', 'conducted', 'more', 'effectively', 'in', 'order', 'to', 'draw', 'more', 'productive', 'conclusions', 'in', 'the', 'future', '.']"
-182,construct a family of networks to demonstrate that the number of different mincuts in a network can be exponential in the size of the network,Apply,"['construct', 'a', 'family', 'of', 'networks', 'to', 'demonstrate', 'that', 'the', 'number', 'of', 'different', 'mincuts', 'in', 'a', 'network', 'can', 'be', 'exponential', 'in', 'the', 'size', 'of', 'the', 'network']"
-183,can you distinguish for me between what is reasonably  achievable and what are  exaggerations,Analyze,"['can', 'you', 'distinguish', 'for', 'me', 'between', 'what', 'is', 'reasonably', 'achievable', 'and', 'what', 'are', 'exaggerations']"
-184,compare and contrast the waterfall model with the prototyping model.,Analyze,"['compare', 'and', 'contrast', 'the', 'waterfall', 'model', 'with', 'the', 'prototyping', 'model', '.']"
-185,in one sentence explain the main idea of a written passage.,Understand,"['in', 'one', 'sentence', 'explain', 'the', 'main', 'idea', 'of', 'a', 'written', 'passage', '.']"
-186,classify celebrations into family and community categories.,Understand,"['classify', 'celebrations', 'into', 'family', 'and', 'community', 'categories', '.']"
-187,how much data can be stored in the cach memory,Remember,"['how', 'much', 'data', 'can', 'be', 'stored', 'in', 'the', 'cach', 'memory']"
-188,"using information from the book about one of the main characters, rewrite the ending of the book.",Create,"['using', 'information', 'from', 'the', 'book', 'about', 'one', 'of', 'the', 'main', 'characters', ',', 'rewrite', 'the', 'ending', 'of', 'the', 'book', '.']"
-189,make a scrapbook about the areas of study.,Apply,"['make', 'a', 'scrapbook', 'about', 'the', 'areas', 'of', 'study', '.']"
-190,how would you investigate this patient,Analyze,"['how', 'would', 'you', 'investigate', 'this', 'patient']"
-191,sketch the blackbody curves for radiation emitted from the sun and the earth,Apply,"['sketch', 'the', 'blackbody', 'curves', 'for', 'radiation', 'emitted', 'from', 'the', 'sun', 'and', 'the', 'earth']"
-192,complete an analogy (analogy tasks are inference tasks),Understand,"['complete', 'an', 'analogy', '(', 'analogy', 'tasks', 'are', 'inference', 'tasks', ')']"
-193,please label the diagram below:,Remember,"['please', 'label', 'the', 'diagram', 'below', ':']"
-194,investigate innovations that can enhance future olympics.,Analyze,"['investigate', 'innovations', 'that', 'can', 'enhance', 'future', 'olympics', '.']"
-195,organize this book into three or more sections and give your own subtitle for each section.,Create,"['organize', 'this', 'book', 'into', 'three', 'or', 'more', 'sections', 'and', 'give', 'your', 'own', 'subtitle', 'for', 'each', 'section', '.']"
-196,paraphrase an important speech,Understand,"['paraphrase', 'an', 'important', 'speech']"
-197,how does one specify the syntactical restrictions,Apply,"['how', 'does', 'one', 'specify', 'the', 'syntactical', 'restrictions']"
-198,what is part of this book did you like best. tell why you like it?,Evaluate,"['what', 'is', 'part', 'of', 'this', 'book', 'did', 'you', 'like', 'best', '.', 'tell', 'why', 'you', 'like', 'it', '?']"
-199,predict what will happen next in.,Evaluate,"['predict', 'what', 'will', 'happen', 'next', 'in', '.']"
-200,devise a new economic system based on the ones that already exist.,Create,"['devise', 'a', 'new', 'economic', 'system', 'based', 'on', 'the', 'ones', 'that', 'already', 'exist', '.']"
-201,"explain the double meaning the author attributes to the term ""successive action descriptions""",Understand,"['explain', 'the', 'double', 'meaning', 'the', 'author', 'attributes', 'to', 'the', 'term', '``', 'successive', 'action', 'descriptions', ""''""]"
-202,use tableau methods to prove that the following tableau is valid.,Apply,"['use', 'tableau', 'methods', 'to', 'prove', 'that', 'the', 'following', 'tableau', 'is', 'valid', '.']"
-203,given two opposing theories design an experiment to compare them.,Create,"['given', 'two', 'opposing', 'theories', 'design', 'an', 'experiment', 'to', 'compare', 'them', '.']"
-204,"given two possible solutions, a and b, to solving the given software development problem, decide on the best solution. give your justification.",Evaluate,"['given', 'two', 'possible', 'solutions', ',', 'a', 'and', 'b', ',', 'to', 'solving', 'the', 'given', 'software', 'development', 'problem', ',', 'decide', 'on', 'the', 'best', 'solution', '.', 'give', 'your', 'justification', '.']"
-205,describe nuclear transport to a lay person.,Understand,"['describe', 'nuclear', 'transport', 'to', 'a', 'lay', 'person', '.']"
-206,create an equation to represent the solution to this problem.,Create,"['create', 'an', 'equation', 'to', 'represent', 'the', 'solution', 'to', 'this', 'problem', '.']"
-207,compare two of the characters in this book.,Analyze,"['compare', 'two', 'of', 'the', 'characters', 'in', 'this', 'book', '.']"
-208,design a cost effective strategy to generate reliable data.,Create,"['design', 'a', 'cost', 'effective', 'strategy', 'to', 'generate', 'reliable', 'data', '.']"
-209,make a diagnosis or analyze a case study.,Analyze,"['make', 'a', 'diagnosis', 'or', 'analyze', 'a', 'case', 'study', '.']"
-210,evaluate appropriate and inappropriate actions of characters.,Evaluate,"['evaluate', 'appropriate', 'and', 'inappropriate', 'actions', 'of', 'characters', '.']"
-211,how does an endorsement differ from a teaching certificate,Analyze,"['how', 'does', 'an', 'endorsement', 'differ', 'from', 'a', 'teaching', 'certificate']"
-212,decide whether you learned enough about electricity from this book.,Evaluate,"['decide', 'whether', 'you', 'learned', 'enough', 'about', 'electricity', 'from', 'this', 'book', '.']"
-213,outline in your own words how the leggo's tomato paste advertisement sells their product.,Understand,"['outline', 'in', 'your', 'own', 'words', 'how', 'the', 'leggo', ""'s"", 'tomato', 'paste', 'advertisement', 'sells', 'their', 'product', '.']"
-214,plan a research paper on a given historical topic,Create,"['plan', 'a', 'research', 'paper', 'on', 'a', 'given', 'historical', 'topic']"
-215,define the meaning of the olympic motto.,Remember,"['define', 'the', 'meaning', 'of', 'the', 'olympic', 'motto', '.']"
-216,construct a dictionary and a truth table to determine if the following statements are logically equivalent,Apply,"['construct', 'a', 'dictionary', 'and', 'a', 'truth', 'table', 'to', 'determine', 'if', 'the', 'following', 'statements', 'are', 'logically', 'equivalent']"
-217,how many instructions in the instruction set of risc computer?,Remember,"['how', 'many', 'instructions', 'in', 'the', 'instruction', 'set', 'of', 'risc', 'computer', '?']"
-218,"by comparing the map of the tectonic plates to the earthquake map, what inferences can you make?",Analyze,"['by', 'comparing', 'the', 'map', 'of', 'the', 'tectonic', 'plates', 'to', 'the', 'earthquake', 'map', ',', 'what', 'inferences', 'can', 'you', 'make', '?']"
-219,what factors would you change if . . .?,Apply,"['what', 'factors', 'would', 'you', 'change', 'if', '.', '.', '.', '?']"
-220,in what ways are foxes similar to wolves and dogs,Analyze,"['in', 'what', 'ways', 'are', 'foxes', 'similar', 'to', 'wolves', 'and', 'dogs']"
-221,recall the supply voltage constraints,Remember,"['recall', 'the', 'supply', 'voltage', 'constraints']"
-222,"create a new song for the opening line of ""mary had a little lamb"".",Create,"['create', 'a', 'new', 'song', 'for', 'the', 'opening', 'line', 'of', '``', 'mary', 'had', 'a', 'little', 'lamb', ""''"", '.']"
-223,identify one problem in the book and give an alternate solution one not given by the author.,Create,"['identify', 'one', 'problem', 'in', 'the', 'book', 'and', 'give', 'an', 'alternate', 'solution', 'one', 'not', 'given', 'by', 'the', 'author', '.']"
-224,use a judge and jury to discuss the statement 'children enjoy anthony browne's books because of the illustrations'.,Evaluate,"['use', 'a', 'judge', 'and', 'jury', 'to', 'discuss', 'the', 'statement', ""'children"", 'enjoy', 'anthony', 'browne', ""'s"", 'books', 'because', 'of', 'the', 'illustrations', ""'"", '.']"
-225,translate the following passage from the iliad into english.,Understand,"['translate', 'the', 'following', 'passage', 'from', 'the', 'iliad', 'into', 'english', '.']"
-226,apply the storytelling technique here to a little story of your own.,Apply,"['apply', 'the', 'storytelling', 'technique', 'here', 'to', 'a', 'little', 'story', 'of', 'your', 'own', '.']"
-227,what are the parts or features of...?,Analyze,"['what', 'are', 'the', 'parts', 'or', 'features', 'of', '...', '?']"
-228,"using straight value depreciation, decide between two copper-nickel alloys for the design of a heat exchanger.",Evaluate,"['using', 'straight', 'value', 'depreciation', ',', 'decide', 'between', 'two', 'copper-nickel', 'alloys', 'for', 'the', 'design', 'of', 'a', 'heat', 'exchanger', '.']"
-229,construct a venn diagram to determine the validity of the given argument.,Apply,"['construct', 'a', 'venn', 'diagram', 'to', 'determine', 'the', 'validity', 'of', 'the', 'given', 'argument', '.']"
-230,define compound interest.,Remember,"['define', 'compound', 'interest', '.']"
-231,compare historical events to contemporary situations,Understand,"['compare', 'historical', 'events', 'to', 'contemporary', 'situations']"
-232,create a new product. give it a name and plan a marketing campaign.,Create,"['create', 'a', 'new', 'product', '.', 'give', 'it', 'a', 'name', 'and', 'plan', 'a', 'marketing', 'campaign', '.']"
-233,differentiate between the following terms along with appropriate examples,Analyze,"['differentiate', 'between', 'the', 'following', 'terms', 'along', 'with', 'appropriate', 'examples']"
-234,judge the difficulty level for yourself.,Evaluate,"['judge', 'the', 'difficulty', 'level', 'for', 'yourself', '.']"
-235,describe how phillip and timothy survived on the cay.,Understand,"['describe', 'how', 'phillip', 'and', 'timothy', 'survived', 'on', 'the', 'cay', '.']"
-236,how would you create/design a new...?,Create,"['how', 'would', 'you', 'create/design', 'a', 'new', '...', '?']"
-237,how do we differentiate between genuine buyer and undercover buyer,Analyze,"['how', 'do', 'we', 'differentiate', 'between', 'genuine', 'buyer', 'and', 'undercover', 'buyer']"
-238,can you differentiate between ethnic chinese and ethnic koreans,Analyze,"['can', 'you', 'differentiate', 'between', 'ethnic', 'chinese', 'and', 'ethnic', 'koreans']"
-239,construct a simple payroll program that computes net pay for those working 40 hours or less and net pay for those working over 40 hours.,Apply,"['construct', 'a', 'simple', 'payroll', 'program', 'that', 'computes', 'net', 'pay', 'for', 'those', 'working', '40', 'hours', 'or', 'less', 'and', 'net', 'pay', 'for', 'those', 'working', 'over', '40', 'hours', '.']"
-240,how much is your weight,Remember,"['how', 'much', 'is', 'your', 'weight']"
-241,state in your own words the rule for balls and strikes in baseball.,Understand,"['state', 'in', 'your', 'own', 'words', 'the', 'rule', 'for', 'balls', 'and', 'strikes', 'in', 'baseball', '.']"
-242,estimate roughly how long the collision process takes,Evaluate,"['estimate', 'roughly', 'how', 'long', 'the', 'collision', 'process', 'takes']"
-243,prepare a book jacket that illustrates the kind of book as well as the story.,Create,"['prepare', 'a', 'book', 'jacket', 'that', 'illustrates', 'the', 'kind', 'of', 'book', 'as', 'well', 'as', 'the', 'story', '.']"
-244,explain how timothy saved phillip's life.,Understand,"['explain', 'how', 'timothy', 'saved', 'phillip', ""'s"", 'life', '.']"
-245,decide whether you could have survived on the island blind and alone. write about things that would have been challenging making sure to,Evaluate,"['decide', 'whether', 'you', 'could', 'have', 'survived', 'on', 'the', 'island', 'blind', 'and', 'alone', '.', 'write', 'about', 'things', 'that', 'would', 'have', 'been', 'challenging', 'making', 'sure', 'to']"
-246,how would you feel if . . .?,Evaluate,"['how', 'would', 'you', 'feel', 'if', '.', '.', '.', '?']"
-247,can you write a new recipe for a tasty dish?,Create,"['can', 'you', 'write', 'a', 'new', 'recipe', 'for', 'a', 'tasty', 'dish', '?']"
-248,develop a hypothesis.,Create,"['develop', 'a', 'hypothesis', '.']"
-249,appraise data in support of a hypothesis.,Evaluate,"['appraise', 'data', 'in', 'support', 'of', 'a', 'hypothesis', '.']"
-250,develop and execute a program for this exercise,Create,"['develop', 'and', 'execute', 'a', 'program', 'for', 'this', 'exercise']"
-251,construct an analog circuit with the following specifications,Apply,"['construct', 'an', 'analog', 'circuit', 'with', 'the', 'following', 'specifications']"
-252,what is a textual index,Remember,"['what', 'is', 'a', 'textual', 'index']"
-253,name 5 steps that follow the taking of notes (within 24 hours or less)?,Remember,"['name', '5', 'steps', 'that', 'follow', 'the', 'taking', 'of', 'notes', '(', 'within', '24', 'hours', 'or', 'less', ')', '?']"
-254,"given an argument on any position, enumerate the logical fallacies in that argument.",Evaluate,"['given', 'an', 'argument', 'on', 'any', 'position', ',', 'enumerate', 'the', 'logical', 'fallacies', 'in', 'that', 'argument', '.']"
-255,use a sketch too find the exact value of each expression,Apply,"['use', 'a', 'sketch', 'too', 'find', 'the', 'exact', 'value', 'of', 'each', 'expression']"
-256,which part of a data packet is used by a router to determine the destination network,Remember,"['which', 'part', 'of', 'a', 'data', 'packet', 'is', 'used', 'by', 'a', 'router', 'to', 'determine', 'the', 'destination', 'network']"
-257,choose a country that does not compete at the olympics and explain why that country is not an olympic member.,Apply,"['choose', 'a', 'country', 'that', 'does', 'not', 'compete', 'at', 'the', 'olympics', 'and', 'explain', 'why', 'that', 'country', 'is', 'not', 'an', 'olympic', 'member', '.']"
-258,assess the strengths and weaknesses of the current olympics and recommend action that should be taken in future olympics: what can be,Evaluate,"['assess', 'the', 'strengths', 'and', 'weaknesses', 'of', 'the', 'current', 'olympics', 'and', 'recommend', 'action', 'that', 'should', 'be', 'taken', 'in', 'future', 'olympics', ':', 'what', 'can', 'be']"
-259,describe in your own words how to borrow a book from the library.,Understand,"['describe', 'in', 'your', 'own', 'words', 'how', 'to', 'borrow', 'a', 'book', 'from', 'the', 'library', '.']"
-260,describe the major clinical differences between visceral and somatic pain,Understand,"['describe', 'the', 'major', 'clinical', 'differences', 'between', 'visceral', 'and', 'somatic', 'pain']"
-261,revise the story and specify the type of audience that would enjoy this book.,Evaluate,"['revise', 'the', 'story', 'and', 'specify', 'the', 'type', 'of', 'audience', 'that', 'would', 'enjoy', 'this', 'book', '.']"
-262,defend the following claim: the cornell method works so well that it could turn even a poor lecture into a valuable learning experience.,Evaluate,"['defend', 'the', 'following', 'claim', ':', 'the', 'cornell', 'method', 'works', 'so', 'well', 'that', 'it', 'could', 'turn', 'even', 'a', 'poor', 'lecture', 'into', 'a', 'valuable', 'learning', 'experience', '.']"
-263,how does public health reporting differ today from reporting two years before,Analyze,"['how', 'does', 'public', 'health', 'reporting', 'differ', 'today', 'from', 'reporting', 'two', 'years', 'before']"
-264,list four types of clauses mentioned in the article,Remember,"['list', 'four', 'types', 'of', 'clauses', 'mentioned', 'in', 'the', 'article']"
-265,"explain the term conjugal families, by making reference to the different types of societies to which they could belong.",Analyze,"['explain', 'the', 'term', 'conjugal', 'families', ',', 'by', 'making', 'reference', 'to', 'the', 'different', 'types', 'of', 'societies', 'to', 'which', 'they', 'could', 'belong', '.']"
-266,apply your understanding the olympic spirit to develop a new motto or slogan.,Apply,"['apply', 'your', 'understanding', 'the', 'olympic', 'spirit', 'to', 'develop', 'a', 'new', 'motto', 'or', 'slogan', '.']"
-267,relate your most powerful story where your use of technology in the classroom has yielded a significant outcome with a student or students,Apply,"['relate', 'your', 'most', 'powerful', 'story', 'where', 'your', 'use', 'of', 'technology', 'in', 'the', 'classroom', 'has', 'yielded', 'a', 'significant', 'outcome', 'with', 'a', 'student', 'or', 'students']"
-268,demonstrate how your unit's specific student learning outcomes are linked to the mission of uam.,Apply,"['demonstrate', 'how', 'your', 'unit', ""'s"", 'specific', 'student', 'learning', 'outcomes', 'are', 'linked', 'to', 'the', 'mission', 'of', 'uam', '.']"
-269,"show, through role-play, the final scene in the novel.",Apply,"['show', ',', 'through', 'role-play', ',', 'the', 'final', 'scene', 'in', 'the', 'novel', '.']"
-270,how would you distinguish between polymyositis and viral myositis in a 42-year-old man with weakness and a rash?,Analyze,"['how', 'would', 'you', 'distinguish', 'between', 'polymyositis', 'and', 'viral', 'myositis', 'in', 'a', '42-year-old', 'man', 'with', 'weakness', 'and', 'a', 'rash', '?']"
-271,examine carefully the given map extract on the following page to help you work out the exercise below.,Analyze,"['examine', 'carefully', 'the', 'given', 'map', 'extract', 'on', 'the', 'following', 'page', 'to', 'help', 'you', 'work', 'out', 'the', 'exercise', 'below', '.']"
-272,would you solve these two problems using similar approaches,Apply,"['would', 'you', 'solve', 'these', 'two', 'problems', 'using', 'similar', 'approaches']"
-273,explain in one's own words how to create a query in a database.,Understand,"['explain', 'in', 'one', ""'s"", 'own', 'words', 'how', 'to', 'create', 'a', 'query', 'in', 'a', 'database', '.']"
-274,rewrite the markov matrix to account for this slight change.,Understand,"['rewrite', 'the', 'markov', 'matrix', 'to', 'account', 'for', 'this', 'slight', 'change', '.']"
-275,compose a rhythm or put new words to a known melody.,Create,"['compose', 'a', 'rhythm', 'or', 'put', 'new', 'words', 'to', 'a', 'known', 'melody', '.']"
-276,what criteria would you use to assess the validity of a business contract?,Evaluate,"['what', 'criteria', 'would', 'you', 'use', 'to', 'assess', 'the', 'validity', 'of', 'a', 'business', 'contract', '?']"
-277,participate in a mock election,Apply,"['participate', 'in', 'a', 'mock', 'election']"
-278,decide which method of solving a problem was most effective,Evaluate,"['decide', 'which', 'method', 'of', 'solving', 'a', 'problem', 'was', 'most', 'effective']"
-279,which of the following actions would probably be least effective in determining the answer?,Evaluate,"['which', 'of', 'the', 'following', 'actions', 'would', 'probably', 'be', 'least', 'effective', 'in', 'determining', 'the', 'answer', '?']"
-280,apply and integrate several different strategies to solve a mathematical problem (not according to one formula(,Create,"['apply', 'and', 'integrate', 'several', 'different', 'strategies', 'to', 'solve', 'a', 'mathematical', 'problem', '(', 'not', 'according', 'to', 'one', 'formula', '(']"
-281,state the rule for balls and strikes in baseball.,Remember,"['state', 'the', 'rule', 'for', 'balls', 'and', 'strikes', 'in', 'baseball', '.']"
-282,compare how different children come to school.,Analyze,"['compare', 'how', 'different', 'children', 'come', 'to', 'school', '.']"
-283,who was the first to compose in the arts of makamat,Remember,"['who', 'was', 'the', 'first', 'to', 'compose', 'in', 'the', 'arts', 'of', 'makamat']"
-284,break down the main actions of the story.,Analyze,"['break', 'down', 'the', 'main', 'actions', 'of', 'the', 'story', '.']"
-285,how many ways can you . . .?,Create,"['how', 'many', 'ways', 'can', 'you', '.', '.', '.', '?']"
-286,in which continent does the state of suriname fall,Remember,"['in', 'which', 'continent', 'does', 'the', 'state', 'of', 'suriname', 'fall']"
-287,examine differences between the means of each individual switching factor.,Analyze,"['examine', 'differences', 'between', 'the', 'means', 'of', 'each', 'individual', 'switching', 'factor', '.']"
-288,explain the communicative property.,Understand,"['explain', 'the', 'communicative', 'property', '.']"
-289,correctly label the brain lobes indicated on the diagram below,Remember,"['correctly', 'label', 'the', 'brain', 'lobes', 'indicated', 'on', 'the', 'diagram', 'below']"
-290,analyze the characteristics of frogs.,Analyze,"['analyze', 'the', 'characteristics', 'of', 'frogs', '.']"
-291,identify the part of a eukaryotic cell.,Remember,"['identify', 'the', 'part', 'of', 'a', 'eukaryotic', 'cell', '.']"
-292,when was the un formed,Remember,"['when', 'was', 'the', 'un', 'formed']"
-293,what are the major products and exports of countries,Remember,"['what', 'are', 'the', 'major', 'products', 'and', 'exports', 'of', 'countries']"
-294,"given the data we've looked at on this topic, evaluate how appropriate this conclusion is and defend your answer.",Evaluate,"['given', 'the', 'data', 'we', ""'ve"", 'looked', 'at', 'on', 'this', 'topic', ',', 'evaluate', 'how', 'appropriate', 'this', 'conclusion', 'is', 'and', 'defend', 'your', 'answer', '.']"
-295,state in your own words what the author means when he says,Understand,"['state', 'in', 'your', 'own', 'words', 'what', 'the', 'author', 'means', 'when', 'he', 'says']"
-296,in what ways do female offenders differ from male offenders,Analyze,"['in', 'what', 'ways', 'do', 'female', 'offenders', 'differ', 'from', 'male', 'offenders']"
-297,assess the importance of understanding seasonal patters.,Evaluate,"['assess', 'the', 'importance', 'of', 'understanding', 'seasonal', 'patters', '.']"
-298,what criteria would you use to assess...?,Evaluate,"['what', 'criteria', 'would', 'you', 'use', 'to', 'assess', '...', '?']"
-299,which of the following item does not belong to the set ?,Remember,"['which', 'of', 'the', 'following', 'item', 'does', 'not', 'belong', 'to', 'the', 'set', '?']"
-300,defend your use of a specific strategy in solving the problem.,Evaluate,"['defend', 'your', 'use', 'of', 'a', 'specific', 'strategy', 'in', 'solving', 'the', 'problem', '.']"
-301,compose a device that would assist an athlete in their training.,Create,"['compose', 'a', 'device', 'that', 'would', 'assist', 'an', 'athlete', 'in', 'their', 'training', '.']"
-302,explain in your own words what is meant by mercantilism.,Understand,"['explain', 'in', 'your', 'own', 'words', 'what', 'is', 'meant', 'by', 'mercantilism', '.']"
-303,why not compose a song about . . .?,Create,"['why', 'not', 'compose', 'a', 'song', 'about', '.', '.', '.', '?']"
-304,how many kilometers from your home to the university,Remember,"['how', 'many', 'kilometers', 'from', 'your', 'home', 'to', 'the', 'university']"
-305,"if your story occurred long ago, compare that time with today in a good paragraph. if it was a modern story, compare it with a long time ago and tell what would be different.",Analyze,"['if', 'your', 'story', 'occurred', 'long', 'ago', ',', 'compare', 'that', 'time', 'with', 'today', 'in', 'a', 'good', 'paragraph', '.', 'if', 'it', 'was', 'a', 'modern', 'story', ',', 'compare', 'it', 'with', 'a', 'long', 'time', 'ago', 'and', 'tell', 'what', 'would', 'be', 'different', '.']"
-306,how could we develop a coherent measure of success for organisations engaged in this type of activity with young people?,Create,"['how', 'could', 'we', 'develop', 'a', 'coherent', 'measure', 'of', 'success', 'for', 'organisations', 'engaged', 'in', 'this', 'type', 'of', 'activity', 'with', 'young', 'people', '?']"
-307,can you analyze the fractures and determine which should be repaired surgically,Analyze,"['can', 'you', 'analyze', 'the', 'fractures', 'and', 'determine', 'which', 'should', 'be', 'repaired', 'surgically']"
-308,model an olympic village for the new millenium.,Apply,"['model', 'an', 'olympic', 'village', 'for', 'the', 'new', 'millenium', '.']"
-309,write a set of rules to prevent what happened in the story.,Create,"['write', 'a', 'set', 'of', 'rules', 'to', 'prevent', 'what', 'happened', 'in', 'the', 'story', '.']"
-310,how would you decide about...?,Evaluate,"['how', 'would', 'you', 'decide', 'about', '...', '?']"
-311,evaluate your own or a peer's essay in terms of the principles of composition discussed during the semester.,Evaluate,"['evaluate', 'your', 'own', 'or', 'a', 'peer', ""'s"", 'essay', 'in', 'terms', 'of', 'the', 'principles', 'of', 'composition', 'discussed', 'during', 'the', 'semester', '.']"
-312,outline the most important insight of the tale.,Understand,"['outline', 'the', 'most', 'important', 'insight', 'of', 'the', 'tale', '.']"
-313,how would this story be different if it had happened in a different country?,Analyze,"['how', 'would', 'this', 'story', 'be', 'different', 'if', 'it', 'had', 'happened', 'in', 'a', 'different', 'country', '?']"
-314,how many states are there in usa,Remember,"['how', 'many', 'states', 'are', 'there', 'in', 'usa']"
-315,name one character. rewrite the story from this character's point of view.,Create,"['name', 'one', 'character', '.', 'rewrite', 'the', 'story', 'from', 'this', 'character', ""'s"", 'point', 'of', 'view', '.']"
-316,what would happen if . . .?,Create,"['what', 'would', 'happen', 'if', '.', '.', '.', '?']"
-317,calculate the number of sacrificial anodes that would be required to form a calcareous deposit on a steel pile immersed in seawater.,Apply,"['calculate', 'the', 'number', 'of', 'sacrificial', 'anodes', 'that', 'would', 'be', 'required', 'to', 'form', 'a', 'calcareous', 'deposit', 'on', 'a', 'steel', 'pile', 'immersed', 'in', 'seawater', '.']"
-318,explain what a poem means.,Understand,"['explain', 'what', 'a', 'poem', 'means', '.']"
-319,summarize jem's beliefs about boo radley,Understand,"['summarize', 'jem', ""'s"", 'beliefs', 'about', 'boo', 'radley']"
-320,evaluate board games and justify why rules are important.,Evaluate,"['evaluate', 'board', 'games', 'and', 'justify', 'why', 'rules', 'are', 'important', '.']"
-321,describe and compare the role of islamic law in the legal systems of malaysia and pakistan,Understand,"['describe', 'and', 'compare', 'the', 'role', 'of', 'islamic', 'law', 'in', 'the', 'legal', 'systems', 'of', 'malaysia', 'and', 'pakistan']"
-322,how do teenagers use code in emails and instant messages?,Apply,"['how', 'do', 'teenagers', 'use', 'code', 'in', 'emails', 'and', 'instant', 'messages', '?']"
-323,explain in your own words what a recessive gene is.,Understand,"['explain', 'in', 'your', 'own', 'words', 'what', 'a', 'recessive', 'gene', 'is', '.']"
-324,illustrate what you think the main idea was.,Understand,"['illustrate', 'what', 'you', 'think', 'the', 'main', 'idea', 'was', '.']"
-325,name the property that states that,Remember,"['name', 'the', 'property', 'that', 'states', 'that']"
-326,write a logically organized argument in favor of a given position.,Create,"['write', 'a', 'logically', 'organized', 'argument', 'in', 'favor', 'of', 'a', 'given', 'position', '.']"
-327,describe what goes in each of the four areas on the first page of notes,Understand,"['describe', 'what', 'goes', 'in', 'each', 'of', 'the', 'four', 'areas', 'on', 'the', 'first', 'page', 'of', 'notes']"
-328,would this information be useful if you had a . . .?,Apply,"['would', 'this', 'information', 'be', 'useful', 'if', 'you', 'had', 'a', '.', '.', '.', '?']"
-329,"inspect the pattern of gps positions relative to the ""known"" published value",Analyze,"['inspect', 'the', 'pattern', 'of', 'gps', 'positions', 'relative', 'to', 'the', '``', 'known', ""''"", 'published', 'value']"
-330,use the unification algorithm to determine whether the following two terms are uni_able. show intermediate step,Apply,"['use', 'the', 'unification', 'algorithm', 'to', 'determine', 'whether', 'the', 'following', 'two', 'terms', 'are', 'uni_able', '.', 'show', 'intermediate', 'step']"
-331,specify a deterministic finite automaton (dfa) recognizing the,Apply,"['specify', 'a', 'deterministic', 'finite', 'automaton', '(', 'dfa', ')', 'recognizing', 'the']"
-332,would you have liked to have had cinderella for a sister? explain why or why not.,Evaluate,"['would', 'you', 'have', 'liked', 'to', 'have', 'had', 'cinderella', 'for', 'a', 'sister', '?', 'explain', 'why', 'or', 'why', 'not', '.']"
-333,describe in prose what is shown in graph form.,Understand,"['describe', 'in', 'prose', 'what', 'is', 'shown', 'in', 'graph', 'form', '.']"
-334,analyze safe and dangerous aspects of these features.,Analyze,"['analyze', 'safe', 'and', 'dangerous', 'aspects', 'of', 'these', 'features', '.']"
-335,how do you combine the results of various individual tests to determine whether a student can progress to a next semester / phase / year?,Create,"['how', 'do', 'you', 'combine', 'the', 'results', 'of', 'various', 'individual', 'tests', 'to', 'determine', 'whether', 'a', 'student', 'can', 'progress', 'to', 'a', 'next', 'semester', '/', 'phase', '/', 'year', '?']"
-336,"award the contract to the best proposal. rank the principles of ""good sportsmanship"" in order of importance to you.",Evaluate,"['award', 'the', 'contract', 'to', 'the', 'best', 'proposal', '.', 'rank', 'the', 'principles', 'of', '``', 'good', 'sportsmanship', ""''"", 'in', 'order', 'of', 'importance', 'to', 'you', '.']"
-337,predict what happens to x if y increases.,Apply,"['predict', 'what', 'happens', 'to', 'x', 'if', 'y', 'increases', '.']"
-338,how could someone modify the cornell method to make it effective for researching a topic for a paper?,Apply,"['how', 'could', 'someone', 'modify', 'the', 'cornell', 'method', 'to', 'make', 'it', 'effective', 'for', 'researching', 'a', 'topic', 'for', 'a', 'paper', '?']"
-339,"classify the following protocols: ip, tcp, http according to the iso osi classification",Understand,"['classify', 'the', 'following', 'protocols', ':', 'ip', ',', 'tcp', ',', 'http', 'according', 'to', 'the', 'iso', 'osi', 'classification']"
-340,contrast olympic athletes of today with athletes of past olympic games.,Analyze,"['contrast', 'olympic', 'athletes', 'of', 'today', 'with', 'athletes', 'of', 'past', 'olympic', 'games', '.']"
-341,"given the two solutions to the stated programming problem, rate the solutions in  terms of efficiency and readability.",Evaluate,"['given', 'the', 'two', 'solutions', 'to', 'the', 'stated', 'programming', 'problem', ',', 'rate', 'the', 'solutions', 'in', 'terms', 'of', 'efficiency', 'and', 'readability', '.']"
-342,investigate whether or not the system can be solved for x; y; z,Analyze,"['investigate', 'whether', 'or', 'not', 'the', 'system', 'can', 'be', 'solved', 'for', 'x', ';', 'y', ';', 'z']"
-343,how to construct the selected information system,Apply,"['how', 'to', 'construct', 'the', 'selected', 'information', 'system']"
-344,describe the output of this program fragment:,Understand,"['describe', 'the', 'output', 'of', 'this', 'program', 'fragment', ':']"
-345,assess the appropriateness of an author's conclusions based on the evidence given.,Evaluate,"['assess', 'the', 'appropriateness', 'of', 'an', 'author', ""'s"", 'conclusions', 'based', 'on', 'the', 'evidence', 'given', '.']"
-346,rewrite you predicted equation for the ideal gas law,Understand,"['rewrite', 'you', 'predicted', 'equation', 'for', 'the', 'ideal', 'gas', 'law']"
-347,select the best title for a passage,Understand,"['select', 'the', 'best', 'title', 'for', 'a', 'passage']"
-348,estimate the difficulty of the question,Evaluate,"['estimate', 'the', 'difficulty', 'of', 'the', 'question']"
-349,calculate for x in the following equation: 12x=36,Apply,"['calculate', 'for', 'x', 'in', 'the', 'following', 'equation', ':', '12x=36']"
-350,"compare and contrast two treatments of either drapery or animals by greek sculptors, establishing their artistic contexts",Understand,"['compare', 'and', 'contrast', 'two', 'treatments', 'of', 'either', 'drapery', 'or', 'animals', 'by', 'greek', 'sculptors', ',', 'establishing', 'their', 'artistic', 'contexts']"
-351,choose a character. rewrite a scene from the story from this character's point of view.,Create,"['choose', 'a', 'character', '.', 'rewrite', 'a', 'scene', 'from', 'the', 'story', 'from', 'this', 'character', ""'s"", 'point', 'of', 'view', '.']"
-352,conduct an investigation to produce information to support a view.,Analyze,"['conduct', 'an', 'investigation', 'to', 'produce', 'information', 'to', 'support', 'a', 'view', '.']"
-353,"outline an ""attack plan"" that will allow you to test your hypothesis using computational molecular modeling tools",Understand,"['outline', 'an', '``', 'attack', 'plan', ""''"", 'that', 'will', 'allow', 'you', 'to', 'test', 'your', 'hypothesis', 'using', 'computational', 'molecular', 'modeling', 'tools']"
-354,how does your agency inspect against its expectation for operators,Analyze,"['how', 'does', 'your', 'agency', 'inspect', 'against', 'its', 'expectation', 'for', 'operators']"
-355,"draw 3 pictures showing the beginning, middle and ending of the story.",Apply,"['draw', '3', 'pictures', 'showing', 'the', 'beginning', ',', 'middle', 'and', 'ending', 'of', 'the', 'story', '.']"
-356,compute the volume of a cylinder,Apply,"['compute', 'the', 'volume', 'of', 'a', 'cylinder']"
-357,what do you think about . . .?,Evaluate,"['what', 'do', 'you', 'think', 'about', '.', '.', '.', '?']"
-358,can you invent another character for the story?,Create,"['can', 'you', 'invent', 'another', 'character', 'for', 'the', 'story', '?']"
-359,how would you show your understanding of the abc process,Apply,"['how', 'would', 'you', 'show', 'your', 'understanding', 'of', 'the', 'abc', 'process']"
-360,"structure, sorts the list in ascending order, displays the list on the screen and stores the list",Create,"['structure', ',', 'sorts', 'the', 'list', 'in', 'ascending', 'order', ',', 'displays', 'the', 'list', 'on', 'the', 'screen', 'and', 'stores', 'the', 'list']"
-361,construct a poster that will advertise your new food product in an exciting and irresistible way.,Evaluate,"['construct', 'a', 'poster', 'that', 'will', 'advertise', 'your', 'new', 'food', 'product', 'in', 'an', 'exciting', 'and', 'irresistible', 'way', '.']"
-362,what ideas can you add to...?,Create,"['what', 'ideas', 'can', 'you', 'add', 'to', '...', '?']"
-363,is there a better solution to . . .?,Evaluate,"['is', 'there', 'a', 'better', 'solution', 'to', '.', '.', '.', '?']"
-364,summarize the basic tenets of collaborative conservation.,Understand,"['summarize', 'the', 'basic', 'tenets', 'of', 'collaborative', 'conservation', '.']"
-365,develop a sqa plan for a software development project which is defined in the attached document.,Create,"['develop', 'a', 'sqa', 'plan', 'for', 'a', 'software', 'development', 'project', 'which', 'is', 'defined', 'in', 'the', 'attached', 'document', '.']"
-366,how do you think the community should grow or change,Evaluate,"['how', 'do', 'you', 'think', 'the', 'community', 'should', 'grow', 'or', 'change']"
-367,"from the information given, can you develop a set of instructions about . . .?",Apply,"['from', 'the', 'information', 'given', ',', 'can', 'you', 'develop', 'a', 'set', 'of', 'instructions', 'about', '.', '.', '.', '?']"
-368,what would you predict/infer from...?,Create,"['what', 'would', 'you', 'predict/infer', 'from', '...', '?']"
-369,what would result if ...,Apply,"['what', 'would', 'result', 'if', '...']"
-370,assess the relative effectiveness of different graphical representations of the same data or biological concept.,Evaluate,"['assess', 'the', 'relative', 'effectiveness', 'of', 'different', 'graphical', 'representations', 'of', 'the', 'same', 'data', 'or', 'biological', 'concept', '.']"
-371,draw a picture of the gown cinderella wore to the ball.,Apply,"['draw', 'a', 'picture', 'of', 'the', 'gown', 'cinderella', 'wore', 'to', 'the', 'ball', '.']"
-372,compare calliope with howie. use the word bank.,Understand,"['compare', 'calliope', 'with', 'howie', '.', 'use', 'the', 'word', 'bank', '.']"
-373,construct the 4-bit ripple carry adder circuit,Apply,"['construct', 'the', '4-bit', 'ripple', 'carry', 'adder', 'circuit']"
-374,design and make an animal that moves.,Create,"['design', 'and', 'make', 'an', 'animal', 'that', 'moves', '.']"
-375,how would you differentiate obstructive apneas from central apneas,Analyze,"['how', 'would', 'you', 'differentiate', 'obstructive', 'apneas', 'from', 'central', 'apneas']"
-376,recall basic math facts,Remember,"['recall', 'basic', 'math', 'facts']"
-377,draw a picture of the bears' house.,Apply,"['draw', 'a', 'picture', 'of', 'the', 'bears', ""'"", 'house', '.']"
-378,what solutions would you suggest for...?,Create,"['what', 'solutions', 'would', 'you', 'suggest', 'for', '...', '?']"
-379,develop a network based on the following information: activity immediate predecessors,Create,"['develop', 'a', 'network', 'based', 'on', 'the', 'following', 'information', ':', 'activity', 'immediate', 'predecessors']"
-380,"classify the following substances as particle, atom, element, molecule, compound",Understand,"['classify', 'the', 'following', 'substances', 'as', 'particle', ',', 'atom', ',', 'element', ',', 'molecule', ',', 'compound']"
-381,can you solve the following problem,Apply,"['can', 'you', 'solve', 'the', 'following', 'problem']"
-382,use gauss' law to find the electric field between the plates when the charge on them is q,Apply,"['use', 'gauss', ""'"", 'law', 'to', 'find', 'the', 'electric', 'field', 'between', 'the', 'plates', 'when', 'the', 'charge', 'on', 'them', 'is', 'q']"
-383,classify frogs toads and other amphibians.,Understand,"['classify', 'frogs', 'toads', 'and', 'other', 'amphibians', '.']"
-384,use the second-derivative test to determine whether critical points where f0(x) = 0 yield relative maxima or relative minima,Apply,"['use', 'the', 'second-derivative', 'test', 'to', 'determine', 'whether', 'critical', 'points', 'where', 'f0', '(', 'x', ')', '=', '0', 'yield', 'relative', 'maxima', 'or', 'relative', 'minima']"
-385,look at the symbol. what is the symbol's purpose on a map?,Remember,"['look', 'at', 'the', 'symbol', '.', 'what', 'is', 'the', 'symbol', ""'s"", 'purpose', 'on', 'a', 'map', '?']"
-386,write an essay in not more than 250 words about india and technological advancement. use active voice as much as possible.,Create,"['write', 'an', 'essay', 'in', 'not', 'more', 'than', '250', 'words', 'about', 'india', 'and', 'technological', 'advancement', '.', 'use', 'active', 'voice', 'as', 'much', 'as', 'possible', '.']"
-387,describe what took place as the hato was sinking.,Understand,"['describe', 'what', 'took', 'place', 'as', 'the', 'hato', 'was', 'sinking', '.']"
-388,explain choices made in making recommendations to an end user.,Evaluate,"['explain', 'choices', 'made', 'in', 'making', 'recommendations', 'to', 'an', 'end', 'user', '.']"
-389,can you group by characteristics such as . . .?,Apply,"['can', 'you', 'group', 'by', 'characteristics', 'such', 'as', '.', '.', '.', '?']"
-390,describe in your own words what happens when a stream's velocity slows.,Understand,"['describe', 'in', 'your', 'own', 'words', 'what', 'happens', 'when', 'a', 'stream', ""'s"", 'velocity', 'slows', '.']"
-391,compare this book to the last book you read.,Analyze,"['compare', 'this', 'book', 'to', 'the', 'last', 'book', 'you', 'read', '.']"
-392,state in your own words where in the library to find previous issues of journals that are no longer in the display racks.,Understand,"['state', 'in', 'your', 'own', 'words', 'where', 'in', 'the', 'library', 'to', 'find', 'previous', 'issues', 'of', 'journals', 'that', 'are', 'no', 'longer', 'in', 'the', 'display', 'racks', '.']"
-393,what is a global variable?,Remember,"['what', 'is', 'a', 'global', 'variable', '?']"
-394,name the main characters in the story.,Remember,"['name', 'the', 'main', 'characters', 'in', 'the', 'story', '.']"
-395,when did saudi arabia start using internet,Remember,"['when', 'did', 'saudi', 'arabia', 'start', 'using', 'internet']"
-396,draw the basic outline of a page of notes using the cornell method?,Remember,"['draw', 'the', 'basic', 'outline', 'of', 'a', 'page', 'of', 'notes', 'using', 'the', 'cornell', 'method', '?']"
-397,in which part of the world does he live,Remember,"['in', 'which', 'part', 'of', 'the', 'world', 'does', 'he', 'live']"
-398,who was the writer of the hamilton,Remember,"['who', 'was', 'the', 'writer', 'of', 'the', 'hamilton']"
-399,describe in your own words what is meant by a sprained ankle.,Understand,"['describe', 'in', 'your', 'own', 'words', 'what', 'is', 'meant', 'by', 'a', 'sprained', 'ankle', '.']"
-400,"given these five corrosion inhibitors, v, w, x, y, z, identify which are passivators",Understand,"['given', 'these', 'five', 'corrosion', 'inhibitors', ',', 'v', ',', 'w', ',', 'x', ',', 'y', ',', 'z', ',', 'identify', 'which', 'are', 'passivators']"
-401,distinguish facts from hypotheses,Analyze,"['distinguish', 'facts', 'from', 'hypotheses']"
-402,derive a kinetic model from experimental data.,Apply,"['derive', 'a', 'kinetic', 'model', 'from', 'experimental', 'data', '.']"
-403,identify the standard peripheral components of a computer.,Remember,"['identify', 'the', 'standard', 'peripheral', 'components', 'of', 'a', 'computer', '.']"
-404,how do you construct foliations on a given manifold m?,Apply,"['how', 'do', 'you', 'construct', 'foliations', 'on', 'a', 'given', 'manifold', 'm', '?']"
-405,create a set of guidelines to determine the points of a plant susceptible to localized corrosion.,Create,"['create', 'a', 'set', 'of', 'guidelines', 'to', 'determine', 'the', 'points', 'of', 'a', 'plant', 'susceptible', 'to', 'localized', 'corrosion', '.']"
-406,recall the definition of the formula datatype from your assignment 2.,Remember,"['recall', 'the', 'definition', 'of', 'the', 'formula', 'datatype', 'from', 'your', 'assignment', '2', '.']"
-407,classify animals into two groups.,Understand,"['classify', 'animals', 'into', 'two', 'groups', '.']"
-408,create plan of local environment by drawing around boxes.,Create,"['create', 'plan', 'of', 'local', 'environment', 'by', 'drawing', 'around', 'boxes', '.']"
-409,develop a plan for a new olympic bid system.,Create,"['develop', 'a', 'plan', 'for', 'a', 'new', 'olympic', 'bid', 'system', '.']"
-410,can you find four different feelings pa lia had during the story?,Analyze,"['can', 'you', 'find', 'four', 'different', 'feelings', 'pa', 'lia', 'had', 'during', 'the', 'story', '?']"
-411,name the food groups and at least two items of food in each group.,Remember,"['name', 'the', 'food', 'groups', 'and', 'at', 'least', 'two', 'items', 'of', 'food', 'in', 'each', 'group', '.']"
-412,what season are we in right now?,Remember,"['what', 'season', 'are', 'we', 'in', 'right', 'now', '?']"
-413,estimate expenditure on hiv/aids education,Evaluate,"['estimate', 'expenditure', 'on', 'hiv/aids', 'education']"
-414,label any olympic sporting apparatus with design features.,Remember,"['label', 'any', 'olympic', 'sporting', 'apparatus', 'with', 'design', 'features', '.']"
-415,label the parts of the microscope shown on the right,Remember,"['label', 'the', 'parts', 'of', 'the', 'microscope', 'shown', 'on', 'the', 'right']"
-416,"divide the story into initiating event, rising action, climax, and falling action",Analyze,"['divide', 'the', 'story', 'into', 'initiating', 'event', ',', 'rising', 'action', ',', 'climax', ',', 'and', 'falling', 'action']"
-417,state four attributes of well engineered software.,Remember,"['state', 'four', 'attributes', 'of', 'well', 'engineered', 'software', '.']"
-418,can you defend your position about . . .?,Evaluate,"['can', 'you', 'defend', 'your', 'position', 'about', '.', '.', '.', '?']"
-419,how to inspect and maintain fresh water plumbing systems properly,Analyze,"['how', 'to', 'inspect', 'and', 'maintain', 'fresh', 'water', 'plumbing', 'systems', 'properly']"
-420,design a new animal to live in the jungle.,Create,"['design', 'a', 'new', 'animal', 'to', 'live', 'in', 'the', 'jungle', '.']"
-421,compare two dog food commercials. what is the difference between them and how do they both sell their products?,Analyze,"['compare', 'two', 'dog', 'food', 'commercials', '.', 'what', 'is', 'the', 'difference', 'between', 'them', 'and', 'how', 'do', 'they', 'both', 'sell', 'their', 'products', '?']"
-422,examine the data in the employees and departments tables,Analyze,"['examine', 'the', 'data', 'in', 'the', 'employees', 'and', 'departments', 'tables']"
-423,describe the economic consequence of a neolocal society. support your description with information you have learned from this course.,Evaluate,"['describe', 'the', 'economic', 'consequence', 'of', 'a', 'neolocal', 'society', '.', 'support', 'your', 'description', 'with', 'information', 'you', 'have', 'learned', 'from', 'this', 'course', '.']"
-424,make a diorama to illustrate an important event.,Apply,"['make', 'a', 'diorama', 'to', 'illustrate', 'an', 'important', 'event', '.']"
-425,can you defend the idea that simon's incident with the pig's head is the most mystical in the story?,Evaluate,"['can', 'you', 'defend', 'the', 'idea', 'that', 'simon', ""'s"", 'incident', 'with', 'the', 'pig', ""'s"", 'head', 'is', 'the', 'most', 'mystical', 'in', 'the', 'story', '?']"
-426,do you devise a systematic approach in order to get larger progressions,Create,"['do', 'you', 'devise', 'a', 'systematic', 'approach', 'in', 'order', 'to', 'get', 'larger', 'progressions']"
-427,"if your story happened in a foreign land, compare that land to the united states.",Analyze,"['if', 'your', 'story', 'happened', 'in', 'a', 'foreign', 'land', ',', 'compare', 'that', 'land', 'to', 'the', 'united', 'states', '.']"
-428,make a list of facts you learned from the story.,Remember,"['make', 'a', 'list', 'of', 'facts', 'you', 'learned', 'from', 'the', 'story', '.']"
-429,decide which course of action was most effective,Evaluate,"['decide', 'which', 'course', 'of', 'action', 'was', 'most', 'effective']"
-430,"analyze the problem, identifying its variables.",Analyze,"['analyze', 'the', 'problem', ',', 'identifying', 'its', 'variables', '.']"
-431,design a building according to given specifications,Create,"['design', 'a', 'building', 'according', 'to', 'given', 'specifications']"
-432,summarize this magazine article.,Understand,"['summarize', 'this', 'magazine', 'article', '.']"
-433,demonstrate how this could work in an industry setting?,Apply,"['demonstrate', 'how', 'this', 'could', 'work', 'in', 'an', 'industry', 'setting', '?']"
-434,create a chart that compares things that use electricity and things that do not use electricity.,Create,"['create', 'a', 'chart', 'that', 'compares', 'things', 'that', 'use', 'electricity', 'and', 'things', 'that', 'do', 'not', 'use', 'electricity', '.']"
-435,show how to modify fitch's algorithm given in class today to accommodate non-binary,Apply,"['show', 'how', 'to', 'modify', 'fitch', ""'s"", 'algorithm', 'given', 'in', 'class', 'today', 'to', 'accommodate', 'non-binary']"
-436,identify a phrase as a simile,Remember,"['identify', 'a', 'phrase', 'as', 'a', 'simile']"
-437,solve for the ten following fraction multiplication problems. please make sure to show all your work.,Apply,"['solve', 'for', 'the', 'ten', 'following', 'fraction', 'multiplication', 'problems', '.', 'please', 'make', 'sure', 'to', 'show', 'all', 'your', 'work', '.']"
-438,write a short story relating a personal experience in the style of a picaresque novel.,Create,"['write', 'a', 'short', 'story', 'relating', 'a', 'personal', 'experience', 'in', 'the', 'style', 'of', 'a', 'picaresque', 'novel', '.']"
-439,decide whether you are in favor of building on a floodplain; defend your position in a debate.,Evaluate,"['decide', 'whether', 'you', 'are', 'in', 'favor', 'of', 'building', 'on', 'a', 'floodplain', ';', 'defend', 'your', 'position', 'in', 'a', 'debate', '.']"
-440,contrast building in the coastal zone with building in a river floodplain.,Analyze,"['contrast', 'building', 'in', 'the', 'coastal', 'zone', 'with', 'building', 'in', 'a', 'river', 'floodplain', '.']"
-441,can you explain what must have happened when . . .?,Analyze,"['can', 'you', 'explain', 'what', 'must', 'have', 'happened', 'when', '.', '.', '.', '?']"
-442,outline your experience in working with service users,Understand,"['outline', 'your', 'experience', 'in', 'working', 'with', 'service', 'users']"
-443,"illustrate this caption: ""olympic as a media event in the information society""",Understand,"['illustrate', 'this', 'caption', ':', '``', 'olympic', 'as', 'a', 'media', 'event', 'in', 'the', 'information', 'society', ""''""]"
-444,identify ordinal positions,Remember,"['identify', 'ordinal', 'positions']"
-445,"how do i differentiate between ""deceive"" and ""cheat on""?",Analyze,"['how', 'do', 'i', 'differentiate', 'between', '``', 'deceive', ""''"", 'and', '``', 'cheat', 'on', ""''"", '?']"
-446,explain and justify a new budget.,Evaluate,"['explain', 'and', 'justify', 'a', 'new', 'budget', '.']"
-447,translate an equation into a computer spreadsheet.,Understand,"['translate', 'an', 'equation', 'into', 'a', 'computer', 'spreadsheet', '.']"
-448,show the value of x after running this program fragment,Apply,"['show', 'the', 'value', 'of', 'x', 'after', 'running', 'this', 'program', 'fragment']"
-449,from a blueprint to describe the article depicted.,Understand,"['from', 'a', 'blueprint', 'to', 'describe', 'the', 'article', 'depicted', '.']"
-450,show me how you would check the brake lights are working on this car,Apply,"['show', 'me', 'how', 'you', 'would', 'check', 'the', 'brake', 'lights', 'are', 'working', 'on', 'this', 'car']"
-451,briefly describe the author's approach to the liabilities of the goto statement,Understand,"['briefly', 'describe', 'the', 'author', ""'s"", 'approach', 'to', 'the', 'liabilities', 'of', 'the', 'goto', 'statement']"
-452,categorise the pictures and add them to the wall display.,Apply,"['categorise', 'the', 'pictures', 'and', 'add', 'them', 'to', 'the', 'wall', 'display', '.']"
-453,what might happen if you combined...?,Create,"['what', 'might', 'happen', 'if', 'you', 'combined', '...', '?']"
-454,how do we devise a way to enforce the laws,Create,"['how', 'do', 'we', 'devise', 'a', 'way', 'to', 'enforce', 'the', 'laws']"
-455,how could you re-write this story with a city setting?,Create,"['how', 'could', 'you', 're-write', 'this', 'story', 'with', 'a', 'city', 'setting', '?']"
-456,justify and nominate ways to prevent animal extinction.,Evaluate,"['justify', 'and', 'nominate', 'ways', 'to', 'prevent', 'animal', 'extinction', '.']"
-457,how might lifestyles in the united states be modified if a more socialistic system were adopted?,Apply,"['how', 'might', 'lifestyles', 'in', 'the', 'united', 'states', 'be', 'modified', 'if', 'a', 'more', 'socialistic', 'system', 'were', 'adopted', '?']"
-458,are there students who should not use the cornell method?,Evaluate,"['are', 'there', 'students', 'who', 'should', 'not', 'use', 'the', 'cornell', 'method', '?']"
-459,construct a model to demonstrate how it will work.,Apply,"['construct', 'a', 'model', 'to', 'demonstrate', 'how', 'it', 'will', 'work', '.']"
-460,recall the equation for the ideal gas law.,Remember,"['recall', 'the', 'equation', 'for', 'the', 'ideal', 'gas', 'law', '.']"
-461,compare herbatious and carnivorous animals on a venn diagram.,Analyze,"['compare', 'herbatious', 'and', 'carnivorous', 'animals', 'on', 'a', 'venn', 'diagram', '.']"
-462,translate a written text aloud from l2 to english.,Understand,"['translate', 'a', 'written', 'text', 'aloud', 'from', 'l2', 'to', 'english', '.']"
-463,revise how to complete a complex task in order to improve the outcome.,Create,"['revise', 'how', 'to', 'complete', 'a', 'complex', 'task', 'in', 'order', 'to', 'improve', 'the', 'outcome', '.']"
-464,compose a dialogue between atticus finch and tom robinson when they first met.,Create,"['compose', 'a', 'dialogue', 'between', 'atticus', 'finch', 'and', 'tom', 'robinson', 'when', 'they', 'first', 'met', '.']"
-465,how was this similar to . . .?,Analyze,"['how', 'was', 'this', 'similar', 'to', '.', '.', '.', '?']"
-466,"in your own words, tell what is meant by the definition of an isosceles triangle.",Understand,"['in', 'your', 'own', 'words', ',', 'tell', 'what', 'is', 'meant', 'by', 'the', 'definition', 'of', 'an', 'isosceles', 'triangle', '.']"
-467,who was the first man on the moon,Remember,"['who', 'was', 'the', 'first', 'man', 'on', 'the', 'moon']"
-468,describe how the linear polarization method can yield corrosion rates,Understand,"['describe', 'how', 'the', 'linear', 'polarization', 'method', 'can', 'yield', 'corrosion', 'rates']"
-469,how the investigation was undertaken,Analyze,"['how', 'the', 'investigation', 'was', 'undertaken']"
-470,what happens if you change the direction of the displacement (but not its size)?,Apply,"['what', 'happens', 'if', 'you', 'change', 'the', 'direction', 'of', 'the', 'displacement', '(', 'but', 'not', 'its', 'size', ')', '?']"
-471,do you think . . . is a good or a bad thing?,Evaluate,"['do', 'you', 'think', '.', '.', '.', 'is', 'a', 'good', 'or', 'a', 'bad', 'thing', '?']"
-472,determine the author's point of view,Understand,"['determine', 'the', 'author', ""'s"", 'point', 'of', 'view']"
-473,how much water does an elephant drink,Remember,"['how', 'much', 'water', 'does', 'an', 'elephant', 'drink']"
-474,can you state in your own words what the problem is asking you to do,Understand,"['can', 'you', 'state', 'in', 'your', 'own', 'words', 'what', 'the', 'problem', 'is', 'asking', 'you', 'to', 'do']"
-475,"after examining the videotape of a play in a football game, determine the degree to which the defensive team performed effectively and",Evaluate,"['after', 'examining', 'the', 'videotape', 'of', 'a', 'play', 'in', 'a', 'football', 'game', ',', 'determine', 'the', 'degree', 'to', 'which', 'the', 'defensive', 'team', 'performed', 'effectively', 'and']"
-476,"contrast the treatment of ""well known"" trademarks provided by paris article and by trips article",Analyze,"['contrast', 'the', 'treatment', 'of', '``', 'well', 'known', ""''"", 'trademarks', 'provided', 'by', 'paris', 'article', 'and', 'by', 'trips', 'article']"
-477,how would the u.s.a. be different if the south had won the civil war?,Create,"['how', 'would', 'the', 'u.s.a.', 'be', 'different', 'if', 'the', 'south', 'had', 'won', 'the', 'civil', 'war', '?']"
-478,recall locations of a historical events,Remember,"['recall', 'locations', 'of', 'a', 'historical', 'events']"
-479,summarize the basic tenets of deconstructionism.,Understand,"['summarize', 'the', 'basic', 'tenets', 'of', 'deconstructionism', '.']"
-480,differentiate between .call by value and call by reference.,Analyze,"['differentiate', 'between', '.call', 'by', 'value', 'and', 'call', 'by', 'reference', '.']"
-481,express the following percentages as fractions in simplest form,Understand,"['express', 'the', 'following', 'percentages', 'as', 'fractions', 'in', 'simplest', 'form']"
-482,outline the aim of two studies within the,Understand,"['outline', 'the', 'aim', 'of', 'two', 'studies', 'within', 'the']"
-483,select the best proposal for a proposed water treatment plant.,Evaluate,"['select', 'the', 'best', 'proposal', 'for', 'a', 'proposed', 'water', 'treatment', 'plant', '.']"
-484,what do you think is the best thing about coming to viestal?,Evaluate,"['what', 'do', 'you', 'think', 'is', 'the', 'best', 'thing', 'about', 'coming', 'to', 'viestal', '?']"
-485,"how do you distinguish between the binge-eating/purging type of anorexia nervosa and bulimia nervosa, purging type",Analyze,"['how', 'do', 'you', 'distinguish', 'between', 'the', 'binge-eating/purging', 'type', 'of', 'anorexia', 'nervosa', 'and', 'bulimia', 'nervosa', ',', 'purging', 'type']"
-486,"in your own words, how would you define transferable skills",Understand,"['in', 'your', 'own', 'words', ',', 'how', 'would', 'you', 'define', 'transferable', 'skills']"
-487,sketch a prediction of the field lines for the arrangement of electrodes shown in figure 2,Apply,"['sketch', 'a', 'prediction', 'of', 'the', 'field', 'lines', 'for', 'the', 'arrangement', 'of', 'electrodes', 'shown', 'in', 'figure', '2']"
-488,how does autonomy differ with age,Analyze,"['how', 'does', 'autonomy', 'differ', 'with', 'age']"
-489,describe 4 types of coupling in software design.,Understand,"['describe', '4', 'types', 'of', 'coupling', 'in', 'software', 'design', '.']"
-490,demonstrate using the opac and your knowledge of library organization to find a book about turtles.,Apply,"['demonstrate', 'using', 'the', 'opac', 'and', 'your', 'knowledge', 'of', 'library', 'organization', 'to', 'find', 'a', 'book', 'about', 'turtles', '.']"
-491,explain the process (paraphrase) for finding the perimeter of a rectangular garden,Understand,"['explain', 'the', 'process', '(', 'paraphrase', ')', 'for', 'finding', 'the', 'perimeter', 'of', 'a', 'rectangular', 'garden']"
-492,how does tdap differ from td vaccine,Analyze,"['how', 'does', 'tdap', 'differ', 'from', 'td', 'vaccine']"
-493,how are the adolescents with asd similar of different from each other in their sources of communication breakdowns ?,Analyze,"['how', 'are', 'the', 'adolescents', 'with', 'asd', 'similar', 'of', 'different', 'from', 'each', 'other', 'in', 'their', 'sources', 'of', 'communication', 'breakdowns', '?']"
-494,how is . . . similar to . . .?,Analyze,"['how', 'is', '.', '.', '.', 'similar', 'to', '.', '.', '.', '?']"
-495,can you see a possible solution to . . .?,Create,"['can', 'you', 'see', 'a', 'possible', 'solution', 'to', '.', '.', '.', '?']"
-496,estimate the epicentral coordinates of the earth-quake,Evaluate,"['estimate', 'the', 'epicentral', 'coordinates', 'of', 'the', 'earth-quake']"
-497,"recite the poem ""auto wreck"".",Remember,"['recite', 'the', 'poem', '``', 'auto', 'wreck', ""''"", '.']"
-498,which technology is used by laser printer,Remember,"['which', 'technology', 'is', 'used', 'by', 'laser', 'printer']"
-499,express the following systems in matrix form,Understand,"['express', 'the', 'following', 'systems', 'in', 'matrix', 'form']"
-500,in one sentence illustrate the main point of a written passage.,Understand,"['in', 'one', 'sentence', 'illustrate', 'the', 'main', 'point', 'of', 'a', 'written', 'passage', '.']"
-501,conclude and support which economic system leads to a higher standard of living.,Evaluate,"['conclude', 'and', 'support', 'which', 'economic', 'system', 'leads', 'to', 'a', 'higher', 'standard', 'of', 'living', '.']"
-502,paraphrase the poem in your own words,Understand,"['paraphrase', 'the', 'poem', 'in', 'your', 'own', 'words']"
-503,"using the basic principles of socialism discussed in this course, evaluate the us economic system by providing key arguments to support your judgment.",Evaluate,"['using', 'the', 'basic', 'principles', 'of', 'socialism', 'discussed', 'in', 'this', 'course', ',', 'evaluate', 'the', 'us', 'economic', 'system', 'by', 'providing', 'key', 'arguments', 'to', 'support', 'your', 'judgment', '.']"
-504,apply the rule of law to a new situation,Apply,"['apply', 'the', 'rule', 'of', 'law', 'to', 'a', 'new', 'situation']"
-505,would you classify the zener diode in this circuit as a series voltage regulator or a shunt voltage regulator,Understand,"['would', 'you', 'classify', 'the', 'zener', 'diode', 'in', 'this', 'circuit', 'as', 'a', 'series', 'voltage', 'regulator', 'or', 'a', 'shunt', 'voltage', 'regulator']"
-506,"inspect each of these boolean expressions, and determine whether each one is a sum of products, or a product of sums",Analyze,"['inspect', 'each', 'of', 'these', 'boolean', 'expressions', ',', 'and', 'determine', 'whether', 'each', 'one', 'is', 'a', 'sum', 'of', 'products', ',', 'or', 'a', 'product', 'of', 'sums']"
-507,how does hawaii contrast and compare to florida?,Analyze,"['how', 'does', 'hawaii', 'contrast', 'and', 'compare', 'to', 'florida', '?']"
-508,how does...compare/contrast with...?,Analyze,"['how', 'does', '...', 'compare/contrast', 'with', '...', '?']"
-509,can you distinguish aged rums from unaged rums by smell,Analyze,"['can', 'you', 'distinguish', 'aged', 'rums', 'from', 'unaged', 'rums', 'by', 'smell']"
-510,design the architecture of the software system based on the requirements defined in the software requirement specification document,Create,"['design', 'the', 'architecture', 'of', 'the', 'software', 'system', 'based', 'on', 'the', 'requirements', 'defined', 'in', 'the', 'software', 'requirement', 'specification', 'document']"
-511,draw the flow chart of the pnk system,Remember,"['draw', 'the', 'flow', 'chart', 'of', 'the', 'pnk', 'system']"
-512,sketch a graph of velocity versus time for the upward and downward parts of a ball's flight,Apply,"['sketch', 'a', 'graph', 'of', 'velocity', 'versus', 'time', 'for', 'the', 'upward', 'and', 'downward', 'parts', 'of', 'a', 'ball', ""'s"", 'flight']"
-513,who is the founder of the kingdom of saudi arabia,Remember,"['who', 'is', 'the', 'founder', 'of', 'the', 'kingdom', 'of', 'saudi', 'arabia']"
-514,can you apply the method used to some experience of your own . . .?,Apply,"['can', 'you', 'apply', 'the', 'method', 'used', 'to', 'some', 'experience', 'of', 'your', 'own', '.', '.', '.', '?']"
-515,how do we efficiently combine multiple subject graphs to construct an aig with choice,Create,"['how', 'do', 'we', 'efficiently', 'combine', 'multiple', 'subject', 'graphs', 'to', 'construct', 'an', 'aig', 'with', 'choice']"
-516,if you had access to all resources how would you deal with . . .?,Create,"['if', 'you', 'had', 'access', 'to', 'all', 'resources', 'how', 'would', 'you', 'deal', 'with', '.', '.', '.', '?']"
-517,"examine what helps to make a good olympics? think about money, schedules, sports and people.",Analyze,"['examine', 'what', 'helps', 'to', 'make', 'a', 'good', 'olympics', '?', 'think', 'about', 'money', ',', 'schedules', ',', 'sports', 'and', 'people', '.']"
-518,what are the structure or functions of congress,Remember,"['what', 'are', 'the', 'structure', 'or', 'functions', 'of', 'congress']"
-519,what does ict stands for.,Remember,"['what', 'does', 'ict', 'stands', 'for', '.']"
-520,what questions would you ask if . . .?,Apply,"['what', 'questions', 'would', 'you', 'ask', 'if', '.', '.', '.', '?']"
-521,"paraphrase this poem about sheik schubli, explaining what he was saying about the characteristics of a friend",Understand,"['paraphrase', 'this', 'poem', 'about', 'sheik', 'schubli', ',', 'explaining', 'what', 'he', 'was', 'saying', 'about', 'the', 'characteristics', 'of', 'a', 'friend']"
-522,compose music for a frog play.,Create,"['compose', 'music', 'for', 'a', 'frog', 'play', '.']"
-523,make a radio announcement that advertise the book. write it out.,Create,"['make', 'a', 'radio', 'announcement', 'that', 'advertise', 'the', 'book', '.', 'write', 'it', 'out', '.']"
-524,recommend how our classroom or playground could be improved.,Evaluate,"['recommend', 'how', 'our', 'classroom', 'or', 'playground', 'could', 'be', 'improved', '.']"
-525,judge whether it would be possible to survive on an island alone and blinded. write about it.,Evaluate,"['judge', 'whether', 'it', 'would', 'be', 'possible', 'to', 'survive', 'on', 'an', 'island', 'alone', 'and', 'blinded', '.', 'write', 'about', 'it', '.']"
-526,specify the thickness of a galvanized coating based on atmospheric data? (level 2),Apply,"['specify', 'the', 'thickness', 'of', 'a', 'galvanized', 'coating', 'based', 'on', 'atmospheric', 'data', '?', '(', 'level', '2', ')']"
-527,"in what ways is oxyperoxidase similar to other oxygenated heme proteins, and how does it differ",Analyze,"['in', 'what', 'ways', 'is', 'oxyperoxidase', 'similar', 'to', 'other', 'oxygenated', 'heme', 'proteins', ',', 'and', 'how', 'does', 'it', 'differ']"
-528,compare three celebrations using a venn diagram.,Analyze,"['compare', 'three', 'celebrations', 'using', 'a', 'venn', 'diagram', '.']"
-529,classify types of corrosion inhibitors,Understand,"['classify', 'types', 'of', 'corrosion', 'inhibitors']"
-530,analyze the movements and sounds of a frog.,Analyze,"['analyze', 'the', 'movements', 'and', 'sounds', 'of', 'a', 'frog', '.']"
-531,how would you compare sas with the visual basic application and spss for the processing and analysis of mainframe data,Understand,"['how', 'would', 'you', 'compare', 'sas', 'with', 'the', 'visual', 'basic', 'application', 'and', 'spss', 'for', 'the', 'processing', 'and', 'analysis', 'of', 'mainframe', 'data']"
-532,"if interest were compounded monthly instead of daily, what would the difference in interest be?",Analyze,"['if', 'interest', 'were', 'compounded', 'monthly', 'instead', 'of', 'daily', ',', 'what', 'would', 'the', 'difference', 'in', 'interest', 'be', '?']"
-533,relate topographic map to field features,Apply,"['relate', 'topographic', 'map', 'to', 'field', 'features']"
-534,when did you born ?,Remember,"['when', 'did', 'you', 'born', '?']"
-535,draw a painting that uses various principles of perspective to achieve its effect.,Create,"['draw', 'a', 'painting', 'that', 'uses', 'various', 'principles', 'of', 'perspective', 'to', 'achieve', 'its', 'effect', '.']"
-536,critique an experimental design or a research proposal.,Evaluate,"['critique', 'an', 'experimental', 'design', 'or', 'a', 'research', 'proposal', '.']"
-537,how to construct the optimal maintenance problem,Apply,"['how', 'to', 'construct', 'the', 'optimal', 'maintenance', 'problem']"
-538,rewrite a part in the poem using a different speaker,Understand,"['rewrite', 'a', 'part', 'in', 'the', 'poem', 'using', 'a', 'different', 'speaker']"
-539,justify your choice of data structure.,Create,"['justify', 'your', 'choice', 'of', 'data', 'structure', '.']"
-540,how would you classify the geographic location of your school,Understand,"['how', 'would', 'you', 'classify', 'the', 'geographic', 'location', 'of', 'your', 'school']"
-541,in what ways trajectory patterns differ according to abc,Analyze,"['in', 'what', 'ways', 'trajectory', 'patterns', 'differ', 'according', 'to', 'abc']"
-542,can you distinguish pot still rums from column still rums by taste,Analyze,"['can', 'you', 'distinguish', 'pot', 'still', 'rums', 'from', 'column', 'still', 'rums', 'by', 'taste']"
-543,what would you do if a heavy growth of bacteria had occurred,Apply,"['what', 'would', 'you', 'do', 'if', 'a', 'heavy', 'growth', 'of', 'bacteria', 'had', 'occurred']"
-544,explain the causes of historical events,Understand,"['explain', 'the', 'causes', 'of', 'historical', 'events']"
-545,"identify a property (commutative, additive, etc(",Remember,"['identify', 'a', 'property', '(', 'commutative', ',', 'additive', ',', 'etc', '(']"
-546,construct one turing machine for computing each of the following functions,Apply,"['construct', 'one', 'turing', 'machine', 'for', 'computing', 'each', 'of', 'the', 'following', 'functions']"
-547,select the most effective solution.,Evaluate,"['select', 'the', 'most', 'effective', 'solution', '.']"
-548,how would you differentiate a project from a program,Analyze,"['how', 'would', 'you', 'differentiate', 'a', 'project', 'from', 'a', 'program']"
-549,identify the correct definition of osmosis.,Remember,"['identify', 'the', 'correct', 'definition', 'of', 'osmosis', '.']"
-550,"in your own words, how would you summarize the story up",Understand,"['in', 'your', 'own', 'words', ',', 'how', 'would', 'you', 'summarize', 'the', 'story', 'up']"
-551,state how to find a word in a dictionary,Remember,"['state', 'how', 'to', 'find', 'a', 'word', 'in', 'a', 'dictionary']"
-552,how many years does this animal live?,Remember,"['how', 'many', 'years', 'does', 'this', 'animal', 'live', '?']"
-553,place the following in order of priority...,Evaluate,"['place', 'the', 'following', 'in', 'order', 'of', 'priority', '...']"
-554,show how e-crm can be used to improve marketing positioning as explained in the article,Apply,"['show', 'how', 'e-crm', 'can', 'be', 'used', 'to', 'improve', 'marketing', 'positioning', 'as', 'explained', 'in', 'the', 'article']"
-555,how does your pet differ from other animals?,Analyze,"['how', 'does', 'your', 'pet', 'differ', 'from', 'other', 'animals', '?']"
-556,identify the five major prophets of the old testament.,Remember,"['identify', 'the', 'five', 'major', 'prophets', 'of', 'the', 'old', 'testament', '.']"
-557,list three predominant economic systems that exist,Remember,"['list', 'three', 'predominant', 'economic', 'systems', 'that', 'exist']"
-558,do you think that this statement conveys the idea that i am trying to portray,Evaluate,"['do', 'you', 'think', 'that', 'this', 'statement', 'conveys', 'the', 'idea', 'that', 'i', 'am', 'trying', 'to', 'portray']"
-559,compose a complete c program that reads text strings from a text file into a suitable data,Create,"['compose', 'a', 'complete', 'c', 'program', 'that', 'reads', 'text', 'strings', 'from', 'a', 'text', 'file', 'into', 'a', 'suitable', 'data']"
-560,revises and process to improve the outcome.,Create,"['revises', 'and', 'process', 'to', 'improve', 'the', 'outcome', '.']"
-561,how would you have handled . . .?,Evaluate,"['how', 'would', 'you', 'have', 'handled', '.', '.', '.', '?']"
-562,"how effectively did students analyze course content on race, class, and privilege through autobiographical reflection",Analyze,"['how', 'effectively', 'did', 'students', 'analyze', 'course', 'content', 'on', 'race', ',', 'class', ',', 'and', 'privilege', 'through', 'autobiographical', 'reflection']"
-563,state the rule for using a semicolon in a sentence.,Remember,"['state', 'the', 'rule', 'for', 'using', 'a', 'semicolon', 'in', 'a', 'sentence', '.']"
-564,devise plans to market or make artwork more valuable.,Create,"['devise', 'plans', 'to', 'market', 'or', 'make', 'artwork', 'more', 'valuable', '.']"
-565,"in a given clinical situation, select the most reasonable intervention and predict the main effects and possible side effects.",Evaluate,"['in', 'a', 'given', 'clinical', 'situation', ',', 'select', 'the', 'most', 'reasonable', 'intervention', 'and', 'predict', 'the', 'main', 'effects', 'and', 'possible', 'side', 'effects', '.']"
-566,do you agree...?,Evaluate,"['do', 'you', 'agree', '...', '?']"
-567,who can use what we know about sonnets and finish this poem?,Apply,"['who', 'can', 'use', 'what', 'we', 'know', 'about', 'sonnets', 'and', 'finish', 'this', 'poem', '?']"
-568,calculate the rate of habitat fragmentation within the colorado front range in the last decade.,Apply,"['calculate', 'the', 'rate', 'of', 'habitat', 'fragmentation', 'within', 'the', 'colorado', 'front', 'range', 'in', 'the', 'last', 'decade', '.']"
-569,compare fall and spring,Analyze,"['compare', 'fall', 'and', 'spring']"
-570,compose a simple rap or rhyme about zoo animals.,Create,"['compose', 'a', 'simple', 'rap', 'or', 'rhyme', 'about', 'zoo', 'animals', '.']"
-571,"compare and contrast preview questions, clarifying questions and anticipated exam questions, including how each relates to the notetaking process?",Analyze,"['compare', 'and', 'contrast', 'preview', 'questions', ',', 'clarifying', 'questions', 'and', 'anticipated', 'exam', 'questions', ',', 'including', 'how', 'each', 'relates', 'to', 'the', 'notetaking', 'process', '?']"
-572,design costumes for the characters.,Create,"['design', 'costumes', 'for', 'the', 'characters', '.']"
-573,compare the place where the story happened with where you live.,Analyze,"['compare', 'the', 'place', 'where', 'the', 'story', 'happened', 'with', 'where', 'you', 'live', '.']"
-574,draw and label a diagram of a typical stream.,Remember,"['draw', 'and', 'label', 'a', 'diagram', 'of', 'a', 'typical', 'stream', '.']"
-575,investigate (pointwise) convergence and absolute convergence of the given series of functions,Analyze,"['investigate', '(', 'pointwise', ')', 'convergence', 'and', 'absolute', 'convergence', 'of', 'the', 'given', 'series', 'of', 'functions']"
-576,interpret the pictures.,Understand,"['interpret', 'the', 'pictures', '.']"
-577,when did the second world war happen,Remember,"['when', 'did', 'the', 'second', 'world', 'war', 'happen']"
-578,what changes to . . . would you recommend?,Evaluate,"['what', 'changes', 'to', '.', '.', '.', 'would', 'you', 'recommend', '?']"
-579,can you develop a proposal which would . . .?,Create,"['can', 'you', 'develop', 'a', 'proposal', 'which', 'would', '.', '.', '.', '?']"
-580,compute the area of actual circles.,Apply,"['compute', 'the', 'area', 'of', 'actual', 'circles', '.']"
-581,why don't you devise your own way to deal with . . .?,Create,"['why', 'do', ""n't"", 'you', 'devise', 'your', 'own', 'way', 'to', 'deal', 'with', '.', '.', '.', '?']"
-582,make up a new language code and write material using it.,Create,"['make', 'up', 'a', 'new', 'language', 'code', 'and', 'write', 'material', 'using', 'it', '.']"
-583,how would you differentiate between heterodox and mainstream,Analyze,"['how', 'would', 'you', 'differentiate', 'between', 'heterodox', 'and', 'mainstream']"
-584,estimate the risk of serious illness for consumers in different susceptible population groups,Evaluate,"['estimate', 'the', 'risk', 'of', 'serious', 'illness', 'for', 'consumers', 'in', 'different', 'susceptible', 'population', 'groups']"
-585,how to specify the impact energy and impact test temperature of the material in the code,Apply,"['how', 'to', 'specify', 'the', 'impact', 'energy', 'and', 'impact', 'test', 'temperature', 'of', 'the', 'material', 'in', 'the', 'code']"
-586,predict whether phillip will ever go back to visit the cay after several years of recovery. assuming he gets his sight back.,Evaluate,"['predict', 'whether', 'phillip', 'will', 'ever', 'go', 'back', 'to', 'visit', 'the', 'cay', 'after', 'several', 'years', 'of', 'recovery', '.', 'assuming', 'he', 'gets', 'his', 'sight', 'back', '.']"
-587,how do psychologists differ in their general attitudes toward third party presence,Analyze,"['how', 'do', 'psychologists', 'differ', 'in', 'their', 'general', 'attitudes', 'toward', 'third', 'party', 'presence']"
-588,specify the thickness of a galvanized coating based on atmospheric data? (level 2),Apply,"['specify', 'the', 'thickness', 'of', 'a', 'galvanized', 'coating', 'based', 'on', 'atmospheric', 'data', '?', '(', 'level', '2', ')']"
-589,what happens if you restrict a determinental process to a subset r  s?,Apply,"['what', 'happens', 'if', 'you', 'restrict', 'a', 'determinental', 'process', 'to', 'a', 'subset', 'r', 's', '?']"
-590,tell how phillip kept himself alive after timothy died.,Understand,"['tell', 'how', 'phillip', 'kept', 'himself', 'alive', 'after', 'timothy', 'died', '.']"
-591,what approach would you use to prove the truth of the below statement,Apply,"['what', 'approach', 'would', 'you', 'use', 'to', 'prove', 'the', 'truth', 'of', 'the', 'below', 'statement']"
-592,contrast the valles marineris on mars with the grand canyon,Analyze,"['contrast', 'the', 'valles', 'marineris', 'on', 'mars', 'with', 'the', 'grand', 'canyon']"
-593,combine any two sports to develop a new olympic sport.,Create,"['combine', 'any', 'two', 'sports', 'to', 'develop', 'a', 'new', 'olympic', 'sport', '.']"
-594,write a letter to the editor on a social issue of concern to you.,Create,"['write', 'a', 'letter', 'to', 'the', 'editor', 'on', 'a', 'social', 'issue', 'of', 'concern', 'to', 'you', '.']"
-595,explain the possible uses described in class for the space to the left of the vertical line.,Understand,"['explain', 'the', 'possible', 'uses', 'described', 'in', 'class', 'for', 'the', 'space', 'to', 'the', 'left', 'of', 'the', 'vertical', 'line', '.']"
-596,outline the mechanisms employed by bacteria allowing them to evade phagocytic destruction.,Understand,"['outline', 'the', 'mechanisms', 'employed', 'by', 'bacteria', 'allowing', 'them', 'to', 'evade', 'phagocytic', 'destruction', '.']"
-597,what are major facts about particular cultures and societies,Remember,"['what', 'are', 'major', 'facts', 'about', 'particular', 'cultures', 'and', 'societies']"
-598,make a paper-mache map to include relevant information about an event.,Apply,"['make', 'a', 'paper-mache', 'map', 'to', 'include', 'relevant', 'information', 'about', 'an', 'event', '.']"
-599,list reserved words in c programming.,Remember,"['list', 'reserved', 'words', 'in', 'c', 'programming', '.']"
+Text,Level
+about what proportion of the population of the us is living on farms?,Remember
+correctly label the brain lobes indicated on the diagram below,Remember
+define compound interest.,Remember
+define four types of traceability.,Remember
+define mercantilism.,Remember
+"define stream bank, floodplain and substrate.",Remember
+define the meaning of the olympic motto.,Remember
+draw and label a diagram of a typical stream.,Remember
+draw the basic outline of a page of notes using the cornell method?,Remember
+draw the block diagram of the central processing unit,Remember
+draw the flow chart of the pnk system,Remember
+how many instructions in the instruction set of risc computer?,Remember
+how many kilometers from your home to the university,Remember
+how many loop statement available in c++?,Remember
+how many states are there in usa,Remember
+how many years does this animal live?,Remember
+how much data can be stored in the cach memory,Remember
+how much did he pay for his car,Remember
+how much is your weight,Remember
+how much time did he took to build a house,Remember
+how much water does an elephant drink,Remember
+identify a phrase as a simile,Remember
+"identify a property (commutative, additive, etc(",Remember
+identify fractions from a pictorial representation,Remember
+identify ordinal positions,Remember
+identify the correct definition of osmosis.,Remember
+identify the five major prophets of the old testament.,Remember
+identify the part of a eukaryotic cell.,Remember
+identify the standard peripheral components of a computer.,Remember
+identify which word begins with the same sound as the s in sun (knowledge of letter s),Remember
+in which continent does the state of suriname fall,Remember
+in which countries is arabic language spoken,Remember
+in which part of the world does he live,Remember
+label any olympic sporting apparatus with design features.,Remember
+label the parts of the following insects: grasshopper,Remember
+label the parts of the microscope shown on the right,Remember
+list four types of clauses mentioned in the article,Remember
+list reserved words in c programming.,Remember
+list the characteristics peculiar to the cubist movement.,Remember
+list the levels in bloom's taxonomy.,Remember
+list the procedure to draw a mixed potential or evans' diagram,Remember
+list the steps involved in titration.,Remember
+list three characteristics that are unique to the cubist movement.,Remember
+list three predominant economic systems that exist,Remember
+look at the symbol. what is the symbol's purpose on a map?,Remember
+make a list of facts you learned from the story.,Remember
+name 5 steps that follow the taking of notes (within 24 hours or less)?,Remember
+name the artist who painted the mona lisa.,Remember
+name the food groups and at least two items of food in each group.,Remember
+name the four major food groups.,Remember
+name the main characters in the story.,Remember
+name the property that states that,Remember
+please label the diagram below:,Remember
+recall basic math facts,Remember
+recall locations of a historical events,Remember
+recall the definition of the formula datatype from your assignment 2.,Remember
+recall the equation for the ideal gas law.,Remember
+recall the following pictoral example of an implementation of some queue operations,Remember
+recall the supply voltage constraints,Remember
+recite a policy of immigration in europe .,Remember
+"recite the poem ""auto wreck"".",Remember
+recite the principles of the data protection act.,Remember
+recite the the gaussian law,Remember
+state four attributes of well engineered software.,Remember
+state how to find a word in a dictionary,Remember
+state the characteristics of each type of corrosion testing studied,Remember
+state the definition of application in bloom's taxonomy.,Remember
+state the formula for the area of a circle,Remember
+state the guidelines to design an anodic protection system,Remember
+state the pattern for expressing time in french.,Remember
+state the rule for balls and strikes in baseball.,Remember
+state the rule for using a semicolon in a sentence.,Remember
+what are major facts about particular cultures and societies,Remember
+what are the major products and exports of countries,Remember
+what are the representational symbols on maps and charts,Remember
+what are the structure or functions of congress,Remember
+what are the units of corrosion penetration rates? relate these to faraday's law,Remember
+what does ict stands for.,Remember
+what is  your family name,Remember
+what is a global variable?,Remember
+what is a textual index,Remember
+what is the setting of to kill a mockingbird?,Remember
+what is the title of the first movie you saw,Remember
+what season are we in right now?,Remember
+when did saudi arabia start using internet,Remember
+when did the first saudi radio station open,Remember
+when did the second world war happen,Remember
+when did you born ?,Remember
+when was the first airport in the yemen built,Remember
+when was the un formed,Remember
+which of the following is the method for determining the volume of a cylinder?,Remember
+which of the following item does not belong to the set ?,Remember
+which of the two liquids is hypotonic,Remember
+which part of a data packet is used by a router to determine the destination network,Remember
+which technology is used by laser printer,Remember
+who is the first president   of usa,Remember
+who is the founder of the kingdom of saudi arabia,Remember
+who was the first man on the moon,Remember
+who was the first to compose in the arts of makamat,Remember
+who was the writer of the hamilton,Remember
+compare calliope with howie. use the word bank.,Understand
+compare historical events to contemporary situations,Understand
+complete an analogy (analogy tasks are inference tasks),Understand
+describe 4 types of coupling in software design.,Understand
+describe how phillip and timothy survived on the cay.,Understand
+describe in prose what is shown in graph form.,Understand
+describe in your own words how to borrow a book from the library.,Understand
+describe in your own words how to copy text from one program into another.,Understand
+describe in your own words what happens when a stream's velocity slows.,Understand
+describe in your own words what is meant by a sprained ankle.,Understand
+describe nuclear transport to a lay person.,Understand
+describe the pareto principle in statistical software quality assurance.,Understand
+describe what goes in each of the four areas on the first page of notes,Understand
+describe what took place as the hato was sinking.,Understand
+describe how the linear polarization method can yield corrosion rates,Understand
+describe the major clinical differences between visceral and somatic pain,Understand
+briefly describe the author's approach to the liabilities of the goto statement,Understand
+describe what happened at...?,Understand
+determine the author's point of view,Understand
+determine the next number in a sequence,Understand
+discuss the nature of socialism.,Understand
+explain how timothy saved phillip's life.,Understand
+explain in one's own words how to create a query in a database.,Understand
+explain in your own words what a recessive gene is.,Understand
+explain in your own words what do you mean by the term economics?,Understand
+explain in your own words what is meant by mercantilism.,Understand
+explain the causes of historical events,Understand
+explain the communicative property.,Understand
+"explain the double meaning the author attributes to the term ""successive action descriptions""",Understand
+explain the possible uses described in class for the space to the left of the vertical line.,Understand
+explain the process (paraphrase) for finding the perimeter of a rectangular garden,Understand
+explain what a poem means.,Understand
+"explain what the author means by the statement ""our intellectual powers are geared to master static relations.",Understand
+express your opinion of 'drugs in sport' through poetry.,Understand
+from a blueprint to describe the article depicted.,Understand
+"given a graph of production trends in automobiles, describe what the graph represents in a memo to your boss.",Understand
+"given these five corrosion inhibitors, v, w, x, y, z, identify which are passivators",Understand
+"illustrate this caption: ""olympic as a media event in the information society""",Understand
+illustrate what you think the main idea was.,Understand
+in one sentence explain the main idea of a written passage.,Understand
+in one sentence illustrate the main point of a written passage.,Understand
+interpret the pictures.,Understand
+outline in your own words how the leggo's tomato paste advertisement sells their product.,Understand
+outline the most important insight of the tale.,Understand
+outline the mechanisms employed by bacteria allowing them to evade phagocytic destruction.,Understand
+"outline an ""attack plan"" that will allow you to test your hypothesis using computational molecular modeling tools",Understand
+paraphrase an important speech,Understand
+paraphrase what hamlet is saying in his soliloquy.,Understand
+paraphrase the poem in your own words,Understand
+"paraphrase this poem about sheik schubli, explaining what he was saying about the characteristics of a friend",Understand
+describe the output of this program fragment:,Understand
+classify types of corrosion inhibitors,Understand
+would you classify the zener diode in this circuit as a series voltage regulator or a shunt voltage regulator,Understand
+"classify the following protocols: ip, tcp, http according to the iso osi classification",Understand
+"classify the following substances as particle, atom, element, molecule, compound",Understand
+how would you classify the geographic location of your school,Understand
+classify animals into two groups.,Understand
+classify celebrations into family and community categories.,Understand
+classify frogs toads and other amphibians.,Understand
+restate main idea of story in own words.,Understand
+restate the olympic motto in your own words.,Understand
+retell the story in your words.,Understand
+rewrite the principles of test writing.,Understand
+rewrite you predicted equation for the ideal gas law,Understand
+rewrite the markov matrix to account for this slight change.,Understand
+"rewrite the sentence in your head, following the direction given below",Understand
+rewrite a part in the poem using a different speaker,Understand
+select the best title for a passage,Understand
+state in your own words the rule for balls and strikes in baseball.,Understand
+state in your own words where in the library to find previous issues of journals that are no longer in the display racks.,Understand
+can you state in your own words what the problem is asking you to do,Understand
+state in your own words what the author means when he says,Understand
+summarize a historical document,Understand
+summarize a story in own words.,Understand
+summarize jem's beliefs about boo radley,Understand
+summarize the basic tenets of collaborative conservation.,Understand
+summarize the basic tenets of deconstructionism.,Understand
+summarize this magazine article.,Understand
+tell how phillip kept himself alive after timothy died.,Understand
+tell in your own words how the setting of the story made it more interesting.,Understand
+tell in your own words the beginning of the book.,Understand
+"in your own words, tell what is meant by the definition of an isosceles triangle.",Understand
+"in your own words, how would you define transferable skills",Understand
+translate a written text aloud from l2 to english.,Understand
+translate an equation into a computer spreadsheet.,Understand
+translate an equation into a spreadsheet formula.,Understand
+translate the following passage from the iliad into english.,Understand
+use the e-ph or pourbaix diagram of cr to determine the control current and potential for the anodic protection of a s43000 stainless steel vessel.,Understand
+"compare and contrast two treatments of either drapery or animals by greek sculptors, establishing their artistic contexts",Understand
+"briefly compare this way of testing the satisfiability of to the more standard way using sld resolution, as in prolog",Understand
+how would you compare sas with the visual basic application and spss for the processing and analysis of mainframe data,Understand
+describe and compare the role of islamic law in the legal systems of malaysia and pakistan,Understand
+express the rule in function notation,Understand
+express the following systems in matrix form,Understand
+express the following percentages as fractions in simplest form,Understand
+explain the whole method of crushing,Understand
+"in your own words, how would you summarize the story up",Understand
+summarize the main point of these two texts in your own words,Understand
+outline the aim of two studies within the,Understand
+outline your experience in working with service users,Understand
+apply laws of statistics to evaluate the reliability of a written test.,Apply
+apply shading to produce depth in drawing.,Apply
+apply the rule of law to a new situation,Apply
+apply the storytelling technique here to a little story of your own.,Apply
+apply your understanding the olympic spirit to develop a new motto or slogan.,Apply
+show the value of x after running this program fragment,Apply
+calculate for x in the following equation: 12x=36,Apply
+calculate the deflection of a beam under uniform loading.,Apply
+calculate the number of sacrificial anodes that would be required to form a calcareous deposit on a steel pile immersed in seawater.,Apply
+calculate the rate of habitat fragmentation within the colorado front range in the last decade.,Apply
+can you apply the method used to some experience of your own . . .?,Apply
+can you group by characteristics such as . . .?,Apply
+categorise the pictures and add them to the wall display.,Apply
+choose a country that does not compete at the olympics and explain why that country is not an olympic member.,Apply
+choose any u.s. president and explain how he exercised his power as commander in chief of the armed forces.,Apply
+compute the area of actual circles.,Apply
+compute the volume of a cylinder,Apply
+construct a model to demonstrate how it will work.,Apply
+demonstrate how the seasons occur.,Apply
+demonstrate how this could work in an industry setting?,Apply
+demonstrate using the opac and your knowledge of library organization to find a book about turtles.,Apply
+demonstrate how your unit's specific student learning outcomes are linked to the mission of uam.,Apply
+derive a kinetic model from experimental data.,Apply
+describe an experiment to answer the question of the effects of weight on the fall of an object.,Apply
+construct a market strategy for your product using a known strategy as a model.,Apply
+construct a simple payroll program that computes net pay for those working 40 hours or less and net pay for those working over 40 hours.,Apply
+"draw 3 pictures showing the beginning, middle and ending of the story.",Apply
+draw a picture of the bears' house.,Apply
+draw a picture of the gown cinderella wore to the ball.,Apply
+"from the information given, can you develop a set of instructions about . . .?",Apply
+how could someone modify the cornell method to make it effective for researching a topic for a paper?,Apply
+how might lifestyles in the united states be modified if a more socialistic system were adopted?,Apply
+"if notes are available on the professor's website, how should those notes be used?",Apply
+"in a teaching simulation with your peers role-playing 6th grade students, demonstrate the principle of reinforcement in classroom interactions and prepare a half page description of what happened during the simulation that validated the principle.",Apply
+make a diorama to illustrate an important event.,Apply
+make a paper-mache map to include relevant information about an event.,Apply
+make a scrapbook about the areas of study.,Apply
+make up a puzzle game using the ideas from the study area.,Apply
+model an olympic village for the new millenium.,Apply
+participate in a mock election,Apply
+predict what happens to x if y increases.,Apply
+pretend you are one of the characters in the book. write a diary about the happenings in your life for two consecutive days.,Apply
+relate the principle of reinforcement to classroom interactions.,Apply
+relate topographic map to field features,Apply
+relate your most powerful story where your use of technology in the classroom has yielded a significant outcome with a student or students,Apply
+how would you relate position concept with position strategy,Apply
+"show, through role-play, the final scene in the novel.",Apply
+solve a math problem using familiar procedure or formula,Apply
+solve for the ten following fraction multiplication problems. please make sure to show all your work.,Apply
+would you solve these two problems using similar approaches,Apply
+use laplace to solve the following problems,Apply
+can you solve the following problem,Apply
+how to specify the impact energy and impact test temperature of the material in the code,Apply
+specify the thickness of a galvanized coating based on atmospheric data? (level 2),Apply
+specify the thickness of a galvanized coating based on atmospheric data? (level 2),Apply
+how does one specify the syntactical restrictions,Apply
+specify a deterministic finite automaton (dfa) recognizing the,Apply
+take a collection of photographs to demonstrate a particular point.,Apply
+use a costing model to compute prices on goods to maximise profits and minimise costs.,Apply
+use a manual to calculate an employee's vacation time.,Apply
+use the distance travelled and cost of petrol to calculate the cost of a coach trip using a spreadsheet.,Apply
+use the rule for a semicolon in a sentence.,Apply
+what factors would you change if . . .?,Apply
+what questions would you ask if . . .?,Apply
+who can use what we know about sonnets and finish this poem?,Apply
+would this information be useful if you had a . . .?,Apply
+sketch a prediction of the field lines for the arrangement of electrodes shown in figure 2,Apply
+sketch the blackbody curves for radiation emitted from the sun and the earth,Apply
+sketch a typical absorption process in a packed column with regeneration in form of,Apply
+sketch a graph of velocity versus time for the upward and downward parts of a ball's flight,Apply
+how do teenagers use code in emails and instant messages?,Apply
+use the second-derivative test to determine whether critical points where f0(x) = 0 yield relative maxima or relative minima,Apply
+use the unification algorithm to determine whether the following two terms are uni_able. show intermediate step,Apply
+use tableau methods to prove that the following tableau is valid.,Apply
+use a sketch too find the exact value of each expression,Apply
+use gauss' law to find the electric field between the plates when the charge on them is q,Apply
+what happens if you restrict a determinental process to a subset r  s?,Apply
+what would happen if the rainfall doubled in your state next year,Apply
+what happens if you change the direction of the displacement (but not its size)?,Apply
+what would you do if a heavy growth of bacteria had occurred,Apply
+what would result if ...,Apply
+what approach would you use to prove the truth of the below statement,Apply
+construct one turing machine for computing each of the following functions,Apply
+construct a venn diagram to determine the validity of the given argument.,Apply
+construct a dictionary and a truth table to determine if the following statements are logically equivalent,Apply
+"how can we construct h given i, b and e?",Apply
+construct a family of networks to demonstrate that the number of different mincuts in a network can be exponential in the size of the network,Apply
+how do you construct foliations on a given manifold m?,Apply
+how to construct the optimal maintenance problem,Apply
+how to construct simple solutions when problems are complex?,Apply
+construct the 4-bit ripple carry adder circuit,Apply
+construct an analog circuit with the following specifications,Apply
+construct the data path of the risc processor given in the previous question,Apply
+"how do we construct agents that can deliver. ""good"" assistance",Apply
+how to construct the selected information system,Apply
+show how they have used creative writing strategies appropriate to the format,Apply
+show how to modify fitch's algorithm given in class today to accommodate non-binary,Apply
+show how e-crm can be used to improve marketing positioning as explained in the article,Apply
+how would you show your understanding of the abc process,Apply
+show me how you would check the brake lights are working on this car,Apply
+analyze safe and dangerous aspects of these features.,Analyze
+analyze the characteristics of frogs.,Analyze
+analyze the movements and sounds of a frog.,Analyze
+"analyze the problem, identifying its variables.",Analyze
+break down the components of a standard film camera and explain how they interact to make the machine work.,Analyze
+break down the main actions of the story.,Analyze
+"by comparing the map of the tectonic plates to the earthquake map, what inferences can you make?",Analyze
+can you compare your . . . with that presented in . . .?,Analyze
+can you distinguish between . . .?,Analyze
+can you explain what must have happened when . . .?,Analyze
+can you find four different feelings pa lia had during the story?,Analyze
+compare and contrast animals that the class has made.,Analyze
+compare and contrast our school to other communities.,Analyze
+"compare and contrast preview questions, clarifying questions and anticipated exam questions, including how each relates to the notetaking process?",Analyze
+compare and contrast the waterfall model with the prototyping model.,Analyze
+compare and contrast two characters in the book.,Analyze
+compare fall and spring,Analyze
+compare herbatious and carnivorous animals on a venn diagram.,Analyze
+compare how different children come to school.,Analyze
+compare the place where the story happened with where you live.,Analyze
+compare this book to the last book you read.,Analyze
+compare three celebrations using a venn diagram.,Analyze
+compare two dog food commercials. what is the difference between them and how do they both sell their products?,Analyze
+compare two of the characters in this book.,Analyze
+conduct an investigation to produce information to support a view.,Analyze
+contrast building in the coastal zone with building in a river floodplain.,Analyze
+contrast olympic athletes of today with athletes of past olympic games.,Analyze
+differentiate between .call by value and call by reference.,Analyze
+differentiate printf function calls for displaying prompts and for echoing data.,Analyze
+distinguish between micro and macro economics.,Analyze
+distinguish facts from hypotheses,Analyze
+"divide the story into initiating event, rising action, climax, and falling action",Analyze
+"examine what helps to make a good olympics? think about money, schedules, sports and people.",Analyze
+"explain the term conjugal families, by making reference to the different types of societies to which they could belong.",Analyze
+analyze the positive and negative points presented concerning the abolition of guns and write a brief (2-3page) narrative of your analysis.,Analyze
+"differentiate the passages that attacked a political opponent personally, and those that attacked an opponent's political programs.",Analyze
+how does your pet differ from other animals?,Analyze
+how does...compare/contrast with...?,Analyze
+how is . . . similar to . . .?,Analyze
+how was life different in your town 100 years ago?,Analyze
+how was this similar to . . .?,Analyze
+how would this story be different if it had happened in a different country?,Analyze
+how would you distinguish between polymyositis and viral myositis in a 42-year-old man with weakness and a rash?,Analyze
+"if your story happened in a foreign land, compare that land to the united states.",Analyze
+"if your story occurred long ago, compare that time with today in a good paragraph. if it was a modern story, compare it with a long time ago and tell what would be different.",Analyze
+investigate innovations that can enhance future olympics.,Analyze
+make a diagnosis or analyze a case study.,Analyze
+select the athlete of the century and analyze why you chose this person.,Analyze
+"if interest were compounded monthly instead of daily, what would the difference in interest be?",Analyze
+what are the parts or features of...?,Analyze
+distinguish between the following giving suitable examples,Analyze
+distinguish between abstract date types (adts) and implementations of adts,Analyze
+"how do you distinguish between the binge-eating/purging type of anorexia nervosa and bulimia nervosa, purging type",Analyze
+how does tdap differ from td vaccine,Analyze
+how does autonomy differ with age,Analyze
+in what ways do female offenders differ from male offenders,Analyze
+in what ways trajectory patterns differ according to abc,Analyze
+how do psychologists differ in their general attitudes toward third party presence,Analyze
+how did chinese newspapers differ from us,Analyze
+how does public health reporting differ today from reporting two years before,Analyze
+how does an endorsement differ from a teaching certificate,Analyze
+how do we differentiate between genuine buyer and undercover buyer,Analyze
+how do we differentiate between an interview and an interrogation?,Analyze
+differentiate between the following terms along with appropriate examples,Analyze
+differentiate the following functions using the quotient rule,Analyze
+can you differentiate between ethnic chinese and ethnic koreans,Analyze
+how would you differentiate obstructive apneas from central apneas,Analyze
+how would you differentiate a project from a program,Analyze
+how is scientific progress similar to darwinian evolution according to kuhn,Analyze
+"in what ways is oxyperoxidase similar to other oxygenated heme proteins, and how does it differ",Analyze
+in what ways are foxes similar to wolves and dogs,Analyze
+how are the adolescents with asd similar of different from each other in their sources of communication breakdowns ?,Analyze
+examine the data in the employees and departments tables,Analyze
+examine the differences between the model excluding the most influential observation and the model including all observations.,Analyze
+critically examine the strengths and weaknesses of the positivist paradigm,Analyze
+examine differences between the means of each individual switching factor.,Analyze
+examine carefully the given map extract on the following page to help you work out the exercise below.,Analyze
+"inspect each of these boolean expressions, and determine whether each one is a sum of products, or a product of sums",Analyze
+inspect the size of the loaded data: how many objects and variables does the iris data matrix contain?,Analyze
+can you distinguish for me between what is reasonably  achievable and what are  exaggerations,Analyze
+can you distinguish aged rums from unaged rums by smell,Analyze
+can you distinguish pot still rums from column still rums by taste,Analyze
+"inspect the pattern of gps positions relative to the ""known"" published value",Analyze
+how does your agency inspect against its expectation for operators,Analyze
+how to inspect and maintain fresh water plumbing systems properly,Analyze
+can you analyze the fractures and determine which should be repaired surgically,Analyze
+can you please analyze modern contemporary culture and tell me how your work plays a significant part in the remains of our post-modernist culture ?,Analyze
+"how effectively did students analyze course content on race, class, and privilege through autobiographical reflection",Analyze
+how do you analyze a marginally rct,Analyze
+"contrast the treatment of ""well known"" trademarks provided by paris article and by trips article",Analyze
+contrast the valles marineris on mars with the grand canyon,Analyze
+how does hawaii contrast and compare to florida?,Analyze
+investigate whether or not the system can be solved for x; y; z,Analyze
+investigate (pointwise) convergence and absolute convergence of the given series of functions,Analyze
+how would you investigate this patient,Analyze
+how would you investigate this abnormality,Analyze
+what can i do to investigate this problem further,Analyze
+how the investigation was undertaken,Analyze
+how would you differentiate between heterodox and mainstream,Analyze
+"how do i differentiate between ""deceive"" and ""cheat on""?",Analyze
+"after designing an experiment, examining the results, and drawing conclusions, determines in what ways the experiment could be conducted more effectively in order to draw more productive conclusions in the future.",Evaluate
+"after examining the videotape of a play in a football game, determine the degree to which the defensive team performed effectively and",Evaluate
+"after solving a problem, determine the degree to which the problem was solved as efficiently as possible",Evaluate
+appraise data in support of a hypothesis.,Evaluate
+appraise the speech's effectiveness based upon the class' criteria.,Evaluate
+are there students who should not use the cornell method?,Evaluate
+are you a . . . person?,Evaluate
+assess the appropriateness of an author's conclusions based on the evidence given.,Evaluate
+assess the importance of understanding seasonal patters.,Evaluate
+assess the relative effectiveness of different graphical representations of the same data or biological concept.,Evaluate
+assess the strengths and weaknesses of the current olympics and recommend action that should be taken in future olympics: what can be,Evaluate
+"award the contract to the best proposal. rank the principles of ""good sportsmanship"" in order of importance to you.",Evaluate
+can you defend the idea that simon's incident with the pig's head is the most mystical in the story?,Evaluate
+can you defend your position about . . .?,Evaluate
+choose a paint schedule for the maintenance of an outdoor structure? (level 2),Evaluate
+choose and illustrate the two most important events in the story.,Evaluate
+conclude and support which economic system leads to a higher standard of living.,Evaluate
+construct a poster that will advertise your new food product in an exciting and irresistible way.,Evaluate
+critique an experimental design or a research proposal.,Evaluate
+"critique the other student's (or your own) speech, based on the criteria we have studied this semester.",Evaluate
+decide whether you are in favor of building on a floodplain; defend your position in a debate.,Evaluate
+decide whether you could have survived on the island blind and alone. write about things that would have been challenging making sure to,Evaluate
+decide whether you learned enough about electricity from this book.,Evaluate
+decide which candidate would best fill the position of principal.,Evaluate
+decide which course of action was most effective,Evaluate
+decide which method of solving a problem was most effective,Evaluate
+defend the following claim: the cornell method works so well that it could turn even a poor lecture into a valuable learning experience.,Evaluate
+defend your use of a specific strategy in solving the problem.,Evaluate
+describe the economic consequence of a neolocal society. support your description with information you have learned from this course.,Evaluate
+design a healthy menu that you think most people would enjoy using the healthy eating guide.,Evaluate
+determine if a character's actions were heroic,Evaluate
+do you agree...?,Evaluate
+do you think . . . is a good or a bad thing?,Evaluate
+establish criteria for making this choice and defend your final selection.,Evaluate
+"evaluate a work of art, giving the reasons for your evaluation.",Evaluate
+evaluate appropriate and inappropriate actions of characters.,Evaluate
+evaluate board games and justify why rules are important.,Evaluate
+evaluate the corrosion monitoring needs of a chemical processing plant,Evaluate
+evaluate the level of galvanic coupling between two metals using basic kinetic information? (level 4),Evaluate
+evaluate two internet sources of information about the egyptians. which would be a better choice for your purpose and why?,Evaluate
+evaluate whether their model is a true representation of the local environment.,Evaluate
+evaluate your own or a peer's essay in terms of the principles of composition discussed during the semester.,Evaluate
+examine the stated positions of both major political candidates with regard to a particular issue and state good reasons (based on principles discussed in class) for why one candidates position is more likely to be effective than the other's.,Evaluate
+explain and justify a new budget.,Evaluate
+explain choices made in making recommendations to an end user.,Evaluate
+"given an argument on any position, enumerate the logical fallacies in that argument.",Evaluate
+"given the data available on a research question, take a position and defend it.",Evaluate
+"given the data we've looked at on this topic, evaluate how appropriate this conclusion is and defend your answer.",Evaluate
+"given the two solutions to the stated programming problem, rate the solutions in  terms of efficiency and readability.",Evaluate
+"given three possible approaches to implement the defined system, discuss the possible advantages and disadvantages of each approach.",Evaluate
+"given two possible solutions, a and b, to solving the given software development problem, decide on the best solution. give your justification.",Evaluate
+how effective are . . .?,Evaluate
+how would you decide about...?,Evaluate
+how would you feel if . . .?,Evaluate
+how would you have handled . . .?,Evaluate
+"improved, reformed or rejected?",Evaluate
+"in a given clinical situation, select the most reasonable intervention and predict the main effects and possible side effects.",Evaluate
+is there a better solution to . . .?,Evaluate
+judge aesthetic qualities and relationship to future values.,Evaluate
+judge the difficulty level for yourself.,Evaluate
+judge the value of . . .?,Evaluate
+judge whether it would be possible to survive on an island alone and blinded. write about it.,Evaluate
+judge whether olympic ideals are realistic or unrealistic for the contemporary elite athlete.,Evaluate
+justify and nominate ways to prevent animal extinction.,Evaluate
+justify the title to kill a mockingbird .,Evaluate
+listen to two classmates conversing on tape and critique their performance on the basis of the skills covered this semester.,Evaluate
+place the following in order of priority...,Evaluate
+predict what will happen next in.,Evaluate
+predict whether phillip will ever go back to visit the cay after several years of recovery. assuming he gets his sight back.,Evaluate
+recommend how our classroom or playground could be improved.,Evaluate
+select the best proposal for a proposed water treatment plant.,Evaluate
+select the most effective solution.,Evaluate
+suggest ways in which it could have responded more effectively,Evaluate
+decide about the most exciting part of the book. being sure to give at least three reasons why?,Evaluate
+use a judge and jury to discuss the statement 'children enjoy anthony browne's books because of the illustrations'.,Evaluate
+"using straight value depreciation, decide between two copper-nickel alloys for the design of a heat exchanger.",Evaluate
+"using the basic principles of socialism discussed in this course, evaluate the us economic system by providing key arguments to support your judgment.",Evaluate
+was hemingway a great american writer? first you will need to define greatness.,Evaluate
+what changes to . . . would you recommend?,Evaluate
+what criteria would you use to assess the validity of a business contract?,Evaluate
+what criteria would you use to assess...?,Evaluate
+what do you think about . . .?,Evaluate
+what is part of this book did you like best. tell why you like it?,Evaluate
+what is the most important...?,Evaluate
+which of the following actions would probably be least effective in determining the answer?,Evaluate
+"which of the two algorithms, bubblesort or quicksort, is more efficient? justify your answer.",Evaluate
+would you have liked to have had cinderella for a sister? explain why or why not.,Evaluate
+write a list of criteria to judge the willy raps.,Evaluate
+revise the story and specify the type of audience that would enjoy this book.,Evaluate
+estimate the epicentral coordinates of the earth-quake,Evaluate
+estimate the risk of serious illness for consumers in different susceptible population groups,Evaluate
+estimate expenditure on hiv/aids education,Evaluate
+estimate the difficulty of the question,Evaluate
+estimate roughly how long the collision process takes,Evaluate
+what do you think is the best thing about coming to viestal?,Evaluate
+what do you think is the mass and why,Evaluate
+what do you think are the strengths of using integrated math in your program?,Evaluate
+do you think that this statement conveys the idea that i am trying to portray,Evaluate
+how do you think the community should grow or change,Evaluate
+how do you think one should reason in making ethical decisions in business,Evaluate
+apply and integrate several different strategies to solve a mathematical problem (not according to one formula(,Create
+can you create new and unusual uses for . . .?,Create
+can you design a . . . to . . .?,Create
+can you develop a proposal which would . . .?,Create
+can you invent another character for the story?,Create
+can you see a possible solution to . . .?,Create
+can you write a new recipe for a tasty dish?,Create
+choose a character. rewrite a scene from the story from this character's point of view.,Create
+combine any two sports to develop a new olympic sport.,Create
+"combine elements of drama, music, and dance into a stage presentation.",Create
+compose a class story.,Create
+compose a dialogue between atticus finch and tom robinson when they first met.,Create
+compose a rhythm or put new words to a known melody.,Create
+compose a simple rap or rhyme about zoo animals.,Create
+compose music for a frog play.,Create
+compose a complete c program that reads text strings from a text file into a suitable data,Create
+compose a device that would assist an athlete in their training.,Create
+compose an original work which incorporates five common materials in sculpture.,Create
+compose your own note-taking design that incorporates all theadvantages of the cornell method.,Create
+create a chart that compares things that use electricity and things that do not use electricity.,Create
+create a new product. give it a name and plan a marketing campaign.,Create
+"create a new song for the opening line of ""mary had a little lamb"".",Create
+create a set of guidelines to determine the points of a plant susceptible to localized corrosion.,Create
+create a storyboard for a sequel to your book. use the same characters.,Create
+create an equation to represent the solution to this problem.,Create
+create and perform a play about frogs.,Create
+create plan of local environment by drawing around boxes.,Create
+design a building according to given specifications,Create
+design a cost effective strategy to generate reliable data.,Create
+design a machine to perform a specific task.,Create
+design a new animal to live in the jungle.,Create
+design a poster for this book.,Create
+design a testing scenario to assess the susceptibility of an alloy to be used in a given environment?,Create
+design and make an animal that moves.,Create
+design costumes for the characters.,Create
+design the architecture of the software system based on the requirements defined in the software requirement specification document,Create
+develop a hypothesis.,Create
+develop a plan for a new olympic bid system.,Create
+develop a sqa plan for a software development project which is defined in the attached document.,Create
+"develop a way to teach the concept of ""adjectives"".",Create
+develop one plausible ending for all three short stories below.,Create
+devise a new economic system based on the ones that already exist.,Create
+devise plans to market or make artwork more valuable.,Create
+draw a painting that uses various principles of perspective to achieve its effect.,Create
+"explain how the biological concept of symbiotic relationships could be used to help solve socially created problems like water pollution, overflowing garbage landfills, or homelessness.",Create
+explain why it is likely that a matriarchal family system would be found in a matrilocal or matrilineal society.,Create
+"following the identification of the forms of corrosion that were involved in a failure, recommend a solution to avoid this failure?",Create
+given two opposing theories design an experiment to compare them.,Create
+how could we determine the number of pennies in a jar without counting them?,Create
+how could you re-write this story with a city setting?,Create
+"how do the clauses and expressions given in the article which replace goto statements, lead to the three traditional control statements",Create
+how many ways can you . . .?,Create
+how would the u.s.a. be different if the south had won the civil war?,Create
+how would you change the story to create a different ending?,Create
+how would you create/design a new...?,Create
+how would you restructure the school day to reflect children's developmental needs?,Create
+identify one problem in the book and give an alternate solution one not given by the author.,Create
+if you had access to all resources how would you deal with . . .?,Create
+integrate training from several sources to solve a problem.,Create
+invent a machine to do a specific task.,Create
+justify your choice of data structure.,Create
+make a radio announcement that advertise the book. write it out.,Create
+make up a new language code and write material using it.,Create
+name one character. rewrite the story from this character's point of view.,Create
+organize this book into three or more sections and give your own subtitle for each section.,Create
+plan a research paper on a given historical topic,Create
+predict the differences of a planet with no seasonal changes.,Create
+prepare a book jacket that illustrates the kind of book as well as the story.,Create
+pretend you are a librarian recommending this book to someone. write a paragraph telling what  you would say.,Create
+revise and process to improve the outcome.,Create
+revise how to complete a complex task in order to improve the outcome.,Create
+revises and process to improve the outcome.,Create
+"structure, sorts the list in ascending order, displays the list on the screen and stores the list",Create
+suppose phillip wasn't rescued shortly after timothy's death. how long could he have survived?,Create
+"using information from the book about one of the main characters, rewrite the ending of the book.",Create
+what ideas can you add to...?,Create
+what might happen if you combined...?,Create
+what solutions would you suggest for...?,Create
+what would happen if . . .?,Create
+what would you predict/infer from...?,Create
+why don't you devise your own way to deal with . . .?,Create
+why not compose a song about . . .?,Create
+"write a c program that accepts integer inputs from the screen, computes the total and average values; and displays the values on the screen.",Create
+write a letter to the editor on a social issue of concern to you.,Create
+write a logically organized argument in favor of a given position.,Create
+write a poem about this book.,Create
+write a set of rules to prevent what happened in the story.,Create
+write a short story relating a personal experience in the style of a picaresque novel.,Create
+write a song about 'old macdonald' who had a bulldozer instead of a farm.,Create
+write an essay in not more than 250 words about india and technological advancement. use active voice as much as possible.,Create
+how do you combine the results of various individual tests to determine whether a student can progress to a next semester / phase / year?,Create
+how can we combine and abstract facts about a software system to create new knowledge?,Create
+how to combine virtual symmetry and symbolic model checking effectively,Create
+how do we efficiently combine multiple subject graphs to construct an aig with choice,Create
+how do we devise a way to enforce the laws,Create
+can you devise an explicit formula for,Create
+do you devise a systematic approach in order to get larger progressions,Create
+develop and execute a program for this exercise,Create
+develop a network based on the following information: activity immediate predecessors,Create
+how could we develop a coherent measure of success for organisations engaged in this type of activity with young people?,Create

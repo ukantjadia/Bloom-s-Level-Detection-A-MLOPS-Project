@@ -1,5 +1,9 @@
 COLUMNS:
   Text: object
+  tokens: object
+  target_column: Level
+
+
 
 TARGET_COLUMN:
   name: Level
