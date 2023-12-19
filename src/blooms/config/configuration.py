@@ -4,6 +4,7 @@ from blooms.entity.config_entity import (
     DataIngestionConfig,
     DataValidationConfig,
     DataTransformationConfig,
+    ModelTrainingConfig,
 )
 
 
@@ -60,3 +61,26 @@ class ConfigurationManager:
             new_data_path=config.new_data_path,
         )
         return data_transformation_config
+
+    def get_model_training_config(self) -> ModelTrainingConfig:
+        config = self.config.model_training
+        params = self.params.Models_03
+        schema = self.schema.COLUMNS
+
+        create_directories([config.root_dir])
+
+        model_training_config = ModelTrainingConfig(
+            root_dir=config.root_dir,
+            train_data_path=config.train_data_path,
+            test_data_path=config.test_data_path,
+            target_columns=schema.target_column,
+            training_columns=schema.training_columns,
+            elastic_model_name=config.elastic_model_name,
+            multinomial_model_name=config.multinomial_model_name,
+            distilBERT_model_name=config.distilBERT_model_name,
+            word2vector_model_name=config.word2vector_model_name,
+            pipeline_ele_1=params.pipeline_ele_1,
+            pipeline_ele_2=params.pipeline_ele_2,
+            pipeline_ele_3=params.pipeline_ele_3,
+        )
+        return model_training_config

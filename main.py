@@ -2,6 +2,7 @@ from blooms import logger
 from blooms.pipeline.stage_01_data_ingestion import DataIngestionTrainingPipeline
 from blooms.pipeline.stage_02_data_validation import DataValidationTrainingPipeline
 from blooms.pipeline.stage_03_data_transformation import DataTrnsformationPipeline
+from blooms.pipeline.stage_04_model_training import ModelTrainingPipeline
 
 
 logger.info("Welcome to the logs of blooms level detection a MLops project ")
@@ -31,6 +32,17 @@ try:
     logger.info(f">>>> stage {STAGE_NAME} started <<<<<")
     transformation = DataTrnsformationPipeline()
     transformation.main()
+    logger.info(f">>>> stage {STAGE_NAME} completed <<<<<  \n\n x=======x")
+except Exception as e:
+    logger.exception(e)
+    raise e
+
+
+STAGE_NAME = "Model Training Stage"
+try:
+    logger.info(f">>>> stage {STAGE_NAME} started <<<<<")
+    training = ModelTrainingPipeline()
+    training.main()
     logger.info(f">>>> stage {STAGE_NAME} completed <<<<<  \n\n x=======x")
 except Exception as e:
     logger.exception(e)
