@@ -1,6 +1,7 @@
 imblearn
 transformers
 nltk
+streamlit
 pandas
 nlpaug
 mlflow
