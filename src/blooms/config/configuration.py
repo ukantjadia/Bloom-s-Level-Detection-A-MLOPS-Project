@@ -1,6 +1,10 @@
 from blooms.constants import *
 from blooms.utils.common import read_yaml, create_directories
-from blooms.entity.config_entity import (DataIngestionConfig,DataValidationConfig)
+from blooms.entity.config_entity import (
+    DataIngestionConfig,
+    DataValidationConfig,
+    DataTransformationConfig,
+)
 
 
 class ConfigurationManager:
@@ -28,7 +32,7 @@ class ConfigurationManager:
             local_data_path=config.local_data_path,
         )
         return data_ingestion_config
-    
+
     def get_data_validation_config(self) -> DataValidationConfig:
         config = self.config.data_validation
         schema = self.schema.COLUMNS
@@ -42,3 +46,17 @@ class ConfigurationManager:
             all_schema=schema,
         )
         return data_validation_config
+
+    def get_data_tranformation_config(self) -> DataTransformationConfig:
+        config = self.config.data_transformation
+
+        create_directories([config.root_dir])
+
+        data_transformation_config = DataTransformationConfig(
+            root_dir=config.root_dir,
+            data_path=config.data_path,
+            clean_data_path=config.clean_data_path,
+            augmented_data_path=config.augmented_data_path,
+            new_data_path=config.new_data_path,
+        )
+        return data_transformation_config
