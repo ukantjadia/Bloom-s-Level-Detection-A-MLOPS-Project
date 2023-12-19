@@ -4,3 +4,8 @@ Models_03:
   pipeline_ele_1: "tfidfVectorizer"
   pipeline_ele_2: "smote_over_sampling"
   pipeline_ele_3: "multinomial"
+
+NBMultinomial:
+  pipeline_ele_1: "tfidfVectorizer"
+  pipeline_ele_2: "smote_over_sampling"
+  pipeline_ele_3: "multinomial"

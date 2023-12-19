@@ -27,3 +27,9 @@ model_training:
   multinomial_model_name: multinomial_model.joblib
   distilBERT_model_name: distilBERT_model.joblib
   word2vector_model_name: word2vector_model.joblib
+
+model_evaluation: 
+  root_dir: artifacts/model_evaluation
+  test_data_path: artifacts/data_transformation/test.csv
+  model_path: artifacts/model_training/multinomial_model.joblib
+  metric_file_name: artifacts/model_evaluation/metric.json

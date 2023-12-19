@@ -1,6 +1,8 @@
+imblearn
 transformers
 nltk
 pandas
+nlpaug
 mlflow
 notebook
 numpy
