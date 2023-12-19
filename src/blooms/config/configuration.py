@@ -5,6 +5,7 @@ from blooms.entity.config_entity import (
     DataValidationConfig,
     DataTransformationConfig,
     ModelTrainingConfig,
+    ModelEvaluationConfig,
 )
 
 
@@ -84,3 +85,21 @@ class ConfigurationManager:
             pipeline_ele_3=params.pipeline_ele_3,
         )
         return model_training_config
+    
+    
+    def get_model_evaluation_config(self) -> ModelEvaluationConfig:
+        config = self.config.model_evaluation
+        params = self.params.NBMultinomial
+        schema = self.schema.COLUMNS
+        create_directories([config.root_dir])
+        model_evaluation_config = ModelEvaluationConfig(
+            root_dir=config.root_dir,
+            test_data_path=config.test_data_path,
+            model_path=config.model_path,
+            metric_file_name=config.metric_file_name,
+            all_params=params,
+            mlflow_URI="https://dagshub.com/ukantjadia/Boolm-s-Level-Detection-A-MLOPS-Project.mlflow",
+            target_column=schema.target_column,
+            training_columns=schema.training_columns,
+        )
+        return model_evaluation_config

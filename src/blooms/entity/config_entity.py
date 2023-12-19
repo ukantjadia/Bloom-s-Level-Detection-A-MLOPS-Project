@@ -41,3 +41,15 @@ class ModelTrainingConfig:
     multinomial_model_name: str
     word2vector_model_name: str
     distilBERT_model_name: str
+
+
+@dataclass(frozen=True)
+class ModelEvaluationConfig:
+    root_dir: Path
+    test_data_path: Path
+    model_path: Path
+    metric_file_name: Path
+    mlflow_URI: str
+    all_params: dict
+    target_column: str
+    training_columns: str

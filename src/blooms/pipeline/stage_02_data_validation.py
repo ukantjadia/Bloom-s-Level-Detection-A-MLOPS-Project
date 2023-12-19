@@ -4,7 +4,7 @@ from blooms import logger
 
 STAGE_NAME = "Data Validation Stage"
 
-class DataValidationTrainingPipeline():
+class DataValidationTrainingPipeline:
     def __init__(self):
         pass
 

@@ -42,11 +42,7 @@ Sklaton of notebook
 
 - Define class `StageNameConfig`  
 
-
-
-
-
-
+---
 
 
 # How to run?
