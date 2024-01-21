@@ -9,24 +9,48 @@ def homePage():
 
 
 def main():
-    st.title("Blooms taxonomy level Detection")
-    html_temp = """
-    <div style="background-color:tomato;padding:10px">
-    <h2 style="color:white;text-align:center;">Blooms level detection ML App</h2>
-    </div>
-    """
-    st.markdown(html_temp, unsafe_allow_html=True)
+    ## title 
+    st.markdown(
+        """<div style="
+                background-color: #3498db;
+                border: 2px solid #e74c3c;
+                border-radius: 10px;
+                padding: 20px;
+                text-align: center;
+                ">
+                <h1 style="color: white;">Blooms level detection ML App</h1>
+            </div>""",
+        unsafe_allow_html=True,
+    )
+    col1, col2 = st.columns(2)
+    with col1:
+        st.text("")
+        st.text("")
+        st.text("")
+        input = st.text_area(label="Question Statement",placeholder="Enter here",height=10)
+        output = ""
 
-    input = st.text_area("Question Statement", "Type here")
-    output = ""
-
-    if st.button("Predict"):
-        output = obj.predicter([input])
-    st.success("The predicted output is {}".format(output))
-    if st.button("About"):
-        st.text("Lets Learn")
-        st.text("Built with Streamlit")
+    with col2:
+        st.text("")
+        st.text("")
+        st.text("")
+        _,col22,_ = st.columns([.3,2.0,.0001])
+        with col22:
+            st.text("")
+            st.text("")
+            if st.button(":rainbow[Predict]",use_container_width=True):
+                if not input:
+                    st.toast("Question Statement is empty!!")
+                else:
+                    output = obj.predicter([input])
+                    st.success("The predicted output is {}".format(output))
+    cot = st.container()
+    if cot.button("About"):
+        cot.text("Lets Learn")
+        cot.text("Built with Streamlit")
+        
 
 
 if __name__ == "__main__":
     main()
+    
