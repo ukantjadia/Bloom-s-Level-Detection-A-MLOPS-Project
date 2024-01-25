@@ -122,7 +122,7 @@ os.environ.get('MY_VARIABLE')
 ```cmd
 MLFLOW_TRACKING_URI=https://dagshub.com/ukantjadia/Boolm-s-Level-Detection-A-MLOPS-Project.mlflow \
 MLFLOW_TRACKING_USERNAME=ukantjadia \
-MLFLOW_TRACKING_PASSWORD=cb7df2a64a9e62c2f3b5a892a1e0593545a8ea77 \
+MLFLOW_TRACKING_PASSWORD=xxxxxxxxxxxxxx \
 python script.py
 ```
 
@@ -135,6 +135,6 @@ export MLFLOW_TRACKING_URI=https://dagshub.com/ukantjadia/Boolm-s-Level-Detectio
 
 export MLFLOW_TRACKING_USERNAME=ukantjadia 
 
-export MLFLOW_TRACKING_PASSWORD=cb7df2a64a9e62c2f3b5a892a1e0593545a8ea77
+export MLFLOW_TRACKING_PASSWORD=xxxxxxxxxxxxxx
 
 ```
