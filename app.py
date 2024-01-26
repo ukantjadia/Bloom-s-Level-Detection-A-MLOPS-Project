@@ -44,13 +44,9 @@ def main():
                 if not input:
                     st.toast("Question Statement is empty!!")
                 else:
-                    # inpu = input.lower()
                     inpu = re.sub(' +', ' ', str(input))
                     inpu = inpu.strip()
-                    # tokens_inpu = word_tokenize(inpu)
-                    print("cccccccccccccccccccccccccccccccccccccccccccc",inpu  )
                     output = obj.predicter(inpu)
-                    # output = obj.predicter([tokens_inpu])
                     st.success("The predicted output is {}".format(output))
     cot = st.container()
     if cot.button("About"):
