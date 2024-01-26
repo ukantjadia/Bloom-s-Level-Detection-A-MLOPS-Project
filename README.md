@@ -1,7 +1,7 @@
 # Boolm-s-Level-Detection-A-MLOPS-Project
 
 
----
+![flowchart](./templates/flowchart.png)
 
 # How to run?
 ### STEPS:
