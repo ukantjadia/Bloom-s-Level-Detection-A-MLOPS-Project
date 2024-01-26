@@ -36,7 +36,7 @@ class DataTrnsformation:
         return augmented_text
 
     def augment_rows(self,row):
-        augmented_texts = [augment_text(row["Text"]) for _ in range(3)]
+        augmented_texts = [self.augment_text(row["Text"]) for _ in range(3)]
         text_list = [text for text in augmented_texts]
         level_list = [row["Level"]] * 3
         return {"Text": text_list, "Level": level_list}
@@ -45,7 +45,7 @@ class DataTrnsformation:
         df = pd.read_csv(self.config.clean_data_path, index_col=None)
         augmented_data = []
         for _, row in tqdm(df.iterrows(), total=len(df), desc="Augmenting Text"):
-            augmented_data.append(augment_rows(row))
+            augmented_data.append(self.augment_rows(row))
         augmented_data_flat = [
             {"Text": Text, "Level": Level}
             for row in augmented_data
@@ -78,5 +78,5 @@ class DataTrnsformation:
             f"Done the Splitting! Saving the train and test  file at: {self.config.root_dir}"
         )
         logger.info(f"Splited data into training and testing sets")
-        logger.info(train.shape)
-        logger.info(test.shape)
+        logger.info(f'training shape: {train.shape}')
+        logger.info(f'testing shape: {test.shape}')

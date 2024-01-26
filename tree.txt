@@ -1,0 +1,91 @@
+.
+├── config
+│   └── config.yaml
+├── logs
+│   └── running_logs.log
+├── research
+│   ├── logs
+│   │   └── running_logs.log
+│   ├── 01_data_ingestion.ipynb
+│   ├── 02_data_validation.ipynb
+│   ├── 03_data_transformation.ipynb
+│   ├── 04_model_trainer.ipynb
+│   └── 05_model_evaluation.ipynb
+├── results
+├── src
+│   ├── blooms
+│   │   ├── __pycache__
+│   │   │   └── __init__.cpython-311.pyc
+│   │   ├── components
+│   │   │   ├── __pycache__
+│   │   │   │   ├── __init__.cpython-311.pyc
+│   │   │   │   ├── data_ingestion.cpython-311.pyc
+│   │   │   │   ├── data_transformation.cpython-311.pyc
+│   │   │   │   ├── data_validation.cpython-311.pyc
+│   │   │   │   ├── model_evaluation.cpython-311.pyc
+│   │   │   │   └── model_training.cpython-311.pyc
+│   │   │   ├── __init__.py
+│   │   │   ├── data_ingestion.py
+│   │   │   ├── data_transformation.py
+│   │   │   ├── data_validation.py
+│   │   │   ├── model_evaluation.py
+│   │   │   └── model_training.py
+│   │   ├── config
+│   │   │   ├── __pycache__
+│   │   │   │   ├── __init__.cpython-311.pyc
+│   │   │   │   └── configuration.cpython-311.pyc
+│   │   │   ├── __init__.py
+│   │   │   └── configuration.py
+│   │   ├── constants
+│   │   │   ├── __pycache__
+│   │   │   │   └── __init__.cpython-311.pyc
+│   │   │   └── __init__.py
+│   │   ├── entity
+│   │   │   ├── __pycache__
+│   │   │   │   ├── __init__.cpython-311.pyc
+│   │   │   │   └── config_entity.cpython-311.pyc
+│   │   │   ├── __init__.py
+│   │   │   └── config_entity.py
+│   │   ├── pipeline
+│   │   │   ├── __pycache__
+│   │   │   │   ├── __init__.cpython-311.pyc
+│   │   │   │   ├── prediction.cpython-311.pyc
+│   │   │   │   ├── stage_01_data_ingestion.cpython-311.pyc
+│   │   │   │   ├── stage_02_data_validation.cpython-311.pyc
+│   │   │   │   ├── stage_03_data_transformation.cpython-311.pyc
+│   │   │   │   ├── stage_04_model_training.cpython-311.pyc
+│   │   │   │   └── stage_05_model_evaluation.cpython-311.pyc
+│   │   │   ├── __init__.py
+│   │   │   ├── prediction.py
+│   │   │   ├── stage_01_data_ingestion.py
+│   │   │   ├── stage_02_data_validation.py
+│   │   │   ├── stage_03_data_transformation.py
+│   │   │   ├── stage_04_model_training.py
+│   │   │   └── stage_05_model_evaluation.py
+│   │   ├── utils
+│   │   │   ├── __pycache__
+│   │   │   │   ├── __init__.cpython-311.pyc
+│   │   │   │   └── common.cpython-311.pyc
+│   │   │   ├── __init__.py
+│   │   │   └── common.py
+│   │   └── __init__.py
+│   └── blooms.egg-info
+│       ├── dependency_links.txt
+│       ├── PKG-INFO
+│       ├── SOURCES.txt
+│       └── top_level.txt
+├── templates
+│   └── index.html
+├── .gitignore
+├── app.py
+├── Dockerfile
+├── index.html
+├── LICENSE
+├── main.py
+├── MLOPS-setup.md
+├── params.yaml
+├── README.md
+├── requirements.txt
+├── schema.yaml
+├── setup.py
+└── template.py

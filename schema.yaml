@@ -2,7 +2,7 @@ COLUMNS:
   Text: object
   tokens: object
   target_column: Level
-  training_columns: Text
+  training_columns: Tokens
 
 
 

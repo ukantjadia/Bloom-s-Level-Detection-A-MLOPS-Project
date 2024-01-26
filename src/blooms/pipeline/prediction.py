@@ -9,5 +9,5 @@ class PredictionPipeline:
         )
 
     def predicter(self, data):
-        prediction = self.model.predict(data)
+        prediction = self.model.predict([data])
         return prediction

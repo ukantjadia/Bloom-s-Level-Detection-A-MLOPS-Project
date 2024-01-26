@@ -47,6 +47,8 @@ class ModelEvaluation:
                 encoder.fit_transform(predicted_qualities),
             )
             scores = {"rmse": rmse, "mae": mae, "r2": r2, "accuracy": acc}
+            logger.info(
+                f"+++++++++++++++++\n\nthis is the matrix \n {scores}\n\n")
             save_json(path=Path(self.config.metric_file_name), data=scores)
             mlflow.log_params(self.config.all_params)
             mlflow.log_metric("rmse", rmse)
@@ -58,7 +60,8 @@ class ModelEvaluation:
                 mlflow.sklearn.log_model(
                     model, "model", registered_model_name="NB Multinomial"
                 )
-                logger.info(f"Model evaluation is done! model logged to given uri {self.config.mlflow_URI}")
+                logger.info(
+                    f"Model evaluation is done! model logged to given uri {self.config.mlflow_URI}")
             else:
                 mlflow.sklearn.log_model(model, "model")
                 logger.info(f"Model evaluation is done! model logged locally")

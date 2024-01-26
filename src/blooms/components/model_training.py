@@ -28,7 +28,7 @@ class ModelTrainer:
         multiNomial = Pipeline(
             [
                 (self.config.pipeline_ele_1, TfidfVectorizer()),
-                (self.config.pipeline_ele_2, SMOTE(random_state=12)),
+                # (self.config.pipeline_ele_2, SMOTE(random_state=12)),
                 (self.config.pipeline_ele_3, MultinomialNB()),
             ]
         )

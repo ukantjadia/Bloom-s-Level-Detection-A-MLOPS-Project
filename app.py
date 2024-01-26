@@ -1,4 +1,6 @@
 import streamlit as st
+import re
+from nltk.tokenize import word_tokenize
 from blooms.pipeline.prediction import PredictionPipeline
 
 obj = PredictionPipeline()
@@ -42,7 +44,13 @@ def main():
                 if not input:
                     st.toast("Question Statement is empty!!")
                 else:
-                    output = obj.predicter([input])
+                    # inpu = input.lower()
+                    inpu = re.sub(' +', ' ', str(input))
+                    inpu = inpu.strip()
+                    # tokens_inpu = word_tokenize(inpu)
+                    print("cccccccccccccccccccccccccccccccccccccccccccc",inpu  )
+                    output = obj.predicter(inpu)
+                    # output = obj.predicter([tokens_inpu])
                     st.success("The predicted output is {}".format(output))
     cot = st.container()
     if cot.button("About"):
