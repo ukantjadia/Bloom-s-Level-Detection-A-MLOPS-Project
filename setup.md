@@ -1,6 +1,6 @@
-# MLOPS
+# ML model Lifecycle
 
-## Setting up mlops from scratch 
+## Setting up the project from scratch 
 
 1. create a repo<repo-name> and clone it locally 
 2. create a conda env in your repo 
@@ -232,13 +232,13 @@ def get_size(path: Path) -> str:
 > 
 > Data Ingestion: collecting the data and setting up for further use 
 > 
-> Data Validation: Checking the data type, format, and other condition to see the validaty and usability of the data
+> Data Validation: Checking the data type, format, and other conditions to see the validity and usability of the data
 > 
-> Data Transformation: Doing the preprocessing and spliting the test and train data set
+> Data Transformation: Doing the preprocessing and splitting the test and train data set
 > 
-> Model Training: Selecting the sutaible mahcine learning algorithm and creating a model by training
+> Model Training: Selecting the suitable machine learning algorithm and creating a model by training
 > 
-> Model Evaluation: Testing on the data and verifying with the measurement/result matrices
+> Model Evaluation: Testing the data and verifying with the measurement/result matrices
 > 
 > Model Prediction: Doing the prediction with user input
 
@@ -255,7 +255,7 @@ SCHEMA_FILE_PATH = Path('schema.yaml')
 
 ### 7.1.1 Update config yaml in detail
 1. Start by adding the path of your artifacts dir as `artifacts_root: artifacts`  in `config/config.yaml`.
-2. Now add the first step **Data Ingestion** from Machine learning steps in `config.yaml` with some required information like data path, data source URL, path of root dir for data ingestion, 
+2. Now add the first step **Data Ingestion** from the Machine learning steps in `config.yaml` with some required information like data path, data source URL, path of root dir for data ingestion, 
 ```yaml
 data_ingestion:
     root_dir: artifacts/data_ingestion
@@ -275,7 +275,7 @@ We will need this to validate our data in a *Data Validation* step
 We will need this during the *Model Training* step
 
 ### 7.1.4 Update the entity in detail
-1. Here we will create a basic class that is working as a bridge between our `config.yaml` file and source code. This class contains all the elements of the current *Machine Learning Step* corresponding to its data type.
+1. Here we will create a basic class that works as a bridge between our `config.yaml` file and source code. This class contains all the elements of the current *Machine Learning Step* corresponding to its data type.
 ```python
 from dataclasses import dataclass
 from pathlib import Path
@@ -322,7 +322,7 @@ class configurationManager:
 ```
 
 ### 7.1.6 Update the component 
-1. After reading the all required information we will do the required tasks as collecting/downloading and extracting the data
+1. After reading all the required information we will do the required tasks, such as collecting/downloading and extracting the data
 ```python
 from projectSrc import logger
 from projectSrc.utils.common import get_size
